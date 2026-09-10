@@ -1,0 +1,34 @@
+@import './bootstrap.min.css';
+
+/*variables for colors*/
+:root {
+    --blue: #4462b1;
+    --green: #59a149;
+    --purple: #6f2a90;
+}
+
+/*color related classes*/
+
+.blue {
+    color: var(--blue);
+}
+
+.bg-blue {
+    background: var(--blue);
+}
+
+.green {
+    color: var(--green);
+}
+
+.bg-green {
+    background: var(--green);
+}
+
+.purple {
+    color: var(--purple);
+}
+
+.bg-purple {
+    background: var(--purple);
+}

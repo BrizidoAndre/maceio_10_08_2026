@@ -1,0 +1,1792 @@
+[
+  {
+    "country-code": "AFG",
+    "description": "Afghanistan is a landlocked country in Central and South Asia, known for its dramatic mountain landscapes, ancient trade routes, and rich cultural heritage. The Hindu Kush dominates much of the country, while historic cities such as Kabul, Herat, and Balkh reflect centuries of Persian, Islamic, and Central Asian influence. Afghanistan has a diverse population and traditions shaped by its strategic position between major civilizations.",
+    "area": "652.230",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "image": "/local/afghanistan.png"
+  },
+  {
+    "country-code": "ALB",
+    "description": "Albania is a small country in southeastern Europe, located along the Adriatic and Ionian seas. It combines rugged mountains, Mediterranean beaches, historic towns, and a rich cultural heritage influenced by Illyrian, Roman, Byzantine, and Ottoman civilizations. Tirana is the modern capital and largest city, while destinations such as Berat, Gjirokaster, and the Albanian Riviera highlight the country's historical and natural diversity.",
+    "area": "28.748",
+    "languages": "Albanian",
+    "image": "/local/albania.png"
+  },
+  {
+    "country-code": "DZA",
+    "description": "Algeria is the largest country in Africa and stretches from the Mediterranean coast deep into the Sahara Desert. Its landscape includes fertile northern plains, dramatic mountain ranges, and vast desert regions. Algeria has a long history shaped by Berber, Phoenician, Roman, Arab, Ottoman, and French influences. Algiers, the capital, sits along the Mediterranean and combines historic architecture with a modern urban character.",
+    "area": "2.381.741",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "image": "/local/algeria.png"
+  },
+  {
+    "country-code": "AND",
+    "description": "Andorra is a small landlocked country located in the eastern Pyrenees between France and Spain. It is known for its mountainous scenery, ski resorts, hiking trails, and historic villages. Despite its small size, Andorra has developed a strong tourism and retail economy. The capital, Andorra la Vella, is one of Europe's highest capital cities and serves as the country's main commercial and cultural center.",
+    "area": "468",
+    "languages": "Catalan",
+    "image": "/local/andorra.png"
+  },
+  {
+    "country-code": "AGO",
+    "description": "Angola is a large country on the southwestern coast of Africa, bordered by the Atlantic Ocean. Its territory includes tropical forests, savannas, highlands, and parts of the Namib Desert. Angola is rich in natural resources, particularly petroleum and minerals, while its cultural identity reflects numerous African traditions and Portuguese influence. Luanda, the capital, is a major economic and cultural center on the Atlantic coast.",
+    "area": "1.246.700",
+    "languages": "Portuguese",
+    "image": "/local/angola.png"
+  },
+  {
+    "country-code": "ATG",
+    "description": "Antigua and Barbuda is a Caribbean island country made up primarily of Antigua and Barbuda, along with several smaller islands. It is known for warm tropical weather, clear waters, coral reefs, and numerous beaches. The country's history was strongly influenced by European colonialism and the sugar industry. St. John's, located on Antigua, is the capital and the main center for commerce, tourism, and government.",
+    "area": "442",
+    "languages": "English",
+    "image": "/local/antigua-and-barbuda.png"
+  },
+  {
+    "country-code": "ARG",
+    "description": "Argentina is a vast South American country stretching from subtropical regions in the north to the glaciers and mountains of Patagonia in the south. It is famous for its diverse landscapes, including the Andes, Pampas, Iguazu Falls, and Tierra del Fuego. Argentina has a strong cultural identity influenced by Indigenous peoples and European immigration, with Buenos Aires serving as a major center of art, music, cuisine, and commerce.",
+    "area": "2.780.400",
+    "languages": "Spanish",
+    "image": "/local/argentina.png"
+  },
+  {
+    "country-code": "ARM",
+    "description": "Armenia is a mountainous country in the South Caucasus, situated between Europe and Asia. It is known for ancient monasteries, dramatic landscapes, and a history that extends back thousands of years. Armenia was one of the earliest civilizations to adopt Christianity as a state religion. Yerevan, the capital, is one of the world's oldest continuously inhabited cities and remains the country's cultural, political, and economic center.",
+    "area": "29.743",
+    "languages": "Armenian",
+    "image": "/local/armenia.png"
+  },
+  {
+    "country-code": "AUS",
+    "description": "Australia is both a country and a continent, occupying a vast area between the Indian and Pacific oceans. It is known for unique wildlife, dramatic deserts, tropical ecosystems, ancient Indigenous cultures, and vibrant coastal cities. The country contains diverse environments ranging from the Great Barrier Reef to the Australian Outback. Canberra is the capital, while Sydney, Melbourne, Brisbane, and Perth are major urban and economic centers.",
+    "area": "7.692.024",
+    "languages": "English",
+    "image": "/local/australia.png"
+  },
+  {
+    "country-code": "AUT",
+    "description": "Austria is a landlocked country in Central Europe, famous for its Alpine landscapes, historic cities, classical music heritage, and imperial architecture. The Austrian Alps cover much of the western and southern regions and support skiing, hiking, and other outdoor activities. Vienna, the capital, has played an important role in European politics, culture, and music for centuries and remains the country's largest cultural and economic center.",
+    "area": "83.879",
+    "languages": "German",
+    "image": "/local/austria.png"
+  },
+  {
+    "country-code": "AZE",
+    "description": "Azerbaijan is a country in the South Caucasus situated between the Caspian Sea and the Caucasus Mountains. Its landscape ranges from coastal plains and semi-deserts to forested mountains. Azerbaijan has a rich cultural heritage influenced by Persian, Turkic, Islamic, and Russian traditions. Baku, the capital, is located on the Caspian coast and is known for its modern skyline, historic old city, and importance in the region's energy sector.",
+    "area": "86.600",
+    "languages": "Azerbaijani",
+    "image": "/local/azerbaijan.png"
+  },
+  {
+    "country-code": "BHS",
+    "description": "The Bahamas is an archipelago of hundreds of islands and thousands of smaller cays in the Atlantic Ocean and Caribbean region. It is renowned for turquoise waters, coral reefs, white-sand beaches, and diverse marine ecosystems. Tourism is a central part of its economy, while Nassau serves as the capital and principal commercial center. The country's location has also made it historically important for maritime travel throughout the Caribbean.",
+    "area": "13.880",
+    "languages": "English",
+    "image": "/local/bahamas.png"
+  },
+  {
+    "country-code": "BHR",
+    "description": "Bahrain is a small island country in the Persian Gulf, known for its long maritime history, modern financial sector, and cultural heritage. The country consists of Bahrain Island and several smaller islands and is connected to Saudi Arabia by the King Fahd Causeway. Manama, the capital, is a major commercial and financial center. Bahrain's history includes ancient settlements associated with the Dilmun civilization, one of the region's earliest trading cultures.",
+    "area": "765",
+    "languages": "Arabic",
+    "image": "/local/bahrain.png"
+  },
+  {
+    "country-code": "BGD",
+    "description": "Bangladesh is a densely populated country in South Asia, largely formed by the fertile delta of the Ganges, Brahmaputra, and Meghna rivers. Its landscape includes extensive rivers, wetlands, agricultural plains, and the coastal Sundarbans mangrove forest. Dhaka is the capital and largest metropolitan area. Bangladesh has a rich literary and cultural tradition, with Bengali language and heritage playing a central role in national identity.",
+    "area": "148.460",
+    "languages": "Bengali",
+    "image": "/local/bangladesh.png"
+  },
+  {
+    "country-code": "BRB",
+    "description": "Barbados is an island country in the eastern Caribbean, known for its beaches, coral landscapes, tropical climate, and distinctive cultural traditions. Its history was shaped by British colonial influence and the development of the sugar industry. Bridgetown, the capital, is a historic port city and an important cultural and commercial center. Today, Barbados is internationally recognized for tourism, music, cuisine, and its vibrant Caribbean identity.",
+    "area": "430",
+    "languages": "English",
+    "image": "/local/barbados.png"
+  },
+  {
+    "country-code": "BLR",
+    "description": "Belarus is a landlocked country in Eastern Europe characterized by extensive forests, wetlands, lakes, and broad plains. Its territory has historically been influenced by neighboring Slavic, Baltic, Polish, Lithuanian, and Russian cultures. Minsk, the capital and largest city, is the country's principal political, economic, and cultural center. Belarus is also known for its natural areas, including large protected forests that preserve important European wildlife habitats.",
+    "area": "207.600",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "image": "/local/belarus.png"
+  },
+  {
+    "country-code": "BEL",
+    "description": "Belgium is a country in Western Europe known for medieval towns, historic architecture, chocolate, beer, and its important role in European institutions. The country has three official languages and a diverse cultural landscape divided between Flemish, Walloon, and German-speaking communities. Brussels is the capital and a major international political center, while cities such as Bruges, Ghent, Antwerp, and Liege showcase Belgium's architectural and cultural heritage.",
+    "area": "30.528",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "image": "/local/belgium.png"
+  },
+  {
+    "country-code": "BLZ",
+    "description": "Belize is a small country on the Caribbean coast of Central America, famous for its tropical forests, coral reefs, and diverse marine ecosystems. It is home to part of the Mesoamerican Barrier Reef, one of the world's largest coral reef systems. Belize has a multicultural population and a history influenced by Maya civilizations, British colonial rule, and Caribbean traditions. Belmopan is the capital, while Belize City remains an important commercial center.",
+    "area": "22.966",
+    "languages": "English",
+    "image": "/local/belize.png"
+  },
+  {
+    "country-code": "BEN",
+    "description": "Benin is a West African country extending from the Gulf of Guinea toward the Sahel. It is known for its rich cultural traditions, historic kingdoms, vibrant markets, and important role in the history of the Dahomey Kingdom. The country contains coastal areas, forests, savannas, and northern landscapes. Porto-Novo is the official capital, while Cotonou is the largest city and a major economic and transportation hub.",
+    "area": "114.763",
+    "languages": "French",
+    "image": "/local/benin.png"
+  },
+  {
+    "country-code": "BTN",
+    "description": "Bhutan is a small landlocked kingdom in the eastern Himalayas, renowned for its dramatic mountain scenery, Buddhist monasteries, and distinctive cultural traditions. The country has preserved many traditional architectural and cultural practices while gradually developing its modern economy. Thimphu is the capital and largest urban center. Bhutan is also known for its environmental conservation policies and its unique approach to development, which emphasizes national well-being alongside economic progress.",
+    "area": "38.394",
+    "languages": "Dzongkha",
+    "image": "/local/bhutan.png"
+  },
+  {
+    "country-code": "BOL",
+    "description": "Bolivia is a landlocked country in central South America with an exceptionally diverse geography, including the Andes Mountains, high-altitude plateaus, tropical forests, and lowland plains. It is culturally rich, with strong Indigenous influences and numerous recognized languages. La Paz is the seat of government and one of the world's highest major cities, while Sucre is the constitutional capital. Bolivia is also home to the spectacular Salar de Uyuni, the world's largest salt flat.",
+    "area": "1.098.581",
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "image": "/local/bolivia.png"
+  },
+  {
+    "country-code": "BIH",
+    "description": "Bosnia and Herzegovina is a mountainous country in southeastern Europe with a complex cultural heritage shaped by Slavic, Ottoman, Austro-Hungarian, and Yugoslav history. Its landscape includes forests, rivers, valleys, and a small Adriatic coastline. Sarajevo, the capital, is known for its multicultural history and historic architecture. Mostar is another important destination, famous for its historic bridge and distinctive Ottoman-era urban landscape.",
+    "area": "51.197",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "image": "/local/bosnia-and-herzegovina.png"
+  },
+  {
+    "country-code": "BWA",
+    "description": "Botswana is a landlocked country in southern Africa dominated by the Kalahari Desert and extensive savanna landscapes. It is internationally recognized for its wildlife and conservation areas, particularly the Okavango Delta, one of the world's largest inland deltas. Gaborone is the capital and main urban center. Botswana has developed a relatively stable economy supported by diamond mining, tourism, agriculture, and services, while maintaining significant protected natural areas.",
+    "area": "581.730",
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "image": "/local/botswana.png"
+  },
+  {
+    "country-code": "BRA",
+    "description": "Brazil is the largest country in South America and one of the most geographically and culturally diverse nations in the world. Its territory includes the Amazon rainforest, extensive Atlantic coastline, tropical wetlands, highlands, and vast agricultural regions. Brazil has a rich cultural identity shaped by Indigenous, African, European, and Asian influences. Brasilia is the capital, while cities such as Sao Paulo, Rio de Janeiro, and Salvador are major cultural and economic centers.",
+    "area": "8.515.767",
+    "languages": "Portuguese",
+    "image": "/local/brazil.png"
+  },
+  {
+    "country-code": "BRN",
+    "description": "Brunei is a small sovereign state on the northern coast of the island of Borneo in Southeast Asia. It is surrounded by Malaysia and faces the South China Sea. Brunei is known for its tropical rainforests, Islamic heritage, and significant petroleum and natural gas resources. Bandar Seri Begawan is the capital and cultural center, recognized for landmarks such as the Sultan Omar Ali Saifuddien Mosque and its distinctive water village communities.",
+    "area": "5.765",
+    "languages": "Malay",
+    "image": "/local/brunei.png"
+  },
+  {
+    "country-code": "BGR",
+    "description": "Bulgaria is a country in southeastern Europe bordering the Black Sea and several Balkan nations. Its landscape includes mountains, fertile plains, forests, rivers, and a long Black Sea coastline. Bulgaria has a deep historical heritage connected to Thracian, Roman, Byzantine, and medieval Bulgarian civilizations. Sofia, the capital, is situated near the Vitosha Mountains and serves as the country's main political, economic, educational, and cultural center.",
+    "area": "110.994",
+    "languages": "Bulgarian",
+    "image": "/local/bulgaria.png"
+  },
+  {
+    "country-code": "BFA",
+    "description": "Burkina Faso is a landlocked country in West Africa characterized largely by savanna landscapes and a transition toward the drier Sahel region in the north. Its population includes many cultural and linguistic communities, with strong traditions in music, crafts, agriculture, and community life. Ouagadougou is the capital and largest city, serving as the country's principal administrative, cultural, and commercial center.",
+    "area": "274.200",
+    "languages": [
+      "French",
+      "Mooré"
+    ],
+    "image": "/local/burkina-faso.png"
+  },
+  {
+    "country-code": "BDI",
+    "description": "Burundi is a small landlocked country in East Africa, known for its rolling hills, fertile highlands, lakes, and rich cultural traditions. The country lies near Lake Tanganyika and forms part of the Great Lakes region of Africa. Burundi has a long history shaped by traditional kingdoms and communities. Gitega is the political capital, while Bujumbura remains an important economic and commercial center on the shores of Lake Tanganyika.",
+    "area": "27.834",
+    "languages": [
+      "Kirundi",
+      "French",
+      "English"
+    ],
+    "image": "/local/burundi.png"
+  },
+  {
+    "country-code": "CPV",
+    "description": "Cabo Verde is an island country in the Atlantic Ocean, located west of Senegal and composed of a group of volcanic islands. Its landscapes range from rugged mountains and volcanic peaks to dry valleys and coastal beaches. Cabo Verde has a distinctive culture influenced by African, Portuguese, and maritime traditions, especially visible in its music and cuisine. Praia, located on Santiago Island, is the capital and main political and economic center.",
+    "area": "4.033",
+    "languages": [
+      "Portuguese",
+      "Cape Verdean Creole"
+    ],
+    "image": "/local/cabo-verde.png"
+  },
+  {
+    "country-code": "KHM",
+    "description": "Cambodia is a Southeast Asian country known for its ancient Khmer civilization, tropical landscapes, and extensive cultural heritage. The Angkor archaeological complex, including the famous Angkor Wat temple, reflects the extraordinary achievements of the Khmer Empire. Cambodia's geography includes the Mekong River, Tonle Sap Lake, forests, and fertile plains. Phnom Penh is the capital and largest city, serving as the country's political, economic, and cultural center.",
+    "area": "181.035",
+    "languages": "Khmer",
+    "image": "/local/cambodia.png"
+  },
+  {
+    "country-code": "CMR",
+    "description": "Cameroon is a Central African country with an unusually diverse geography, often described as a miniature representation of the continent. Its territory includes tropical forests, mountains, savannas, highlands, and coastal regions. Mount Cameroon is one of Africa's highest volcanic peaks. The country has many cultural and linguistic communities, while Yaounde serves as the political capital and Douala functions as the largest commercial and port city.",
+    "area": "475.442",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "image": "/local/cameroon.png"
+  },
+  {
+    "country-code": "CAN",
+    "description": "Canada is the second-largest country in the world by total area and stretches across much of northern North America. It is known for vast forests, mountain ranges, Arctic landscapes, lakes, and a long Pacific, Atlantic, and Arctic coastline. Canada has a multicultural society and two federal official languages. Ottawa is the capital, while Toronto, Montreal, Vancouver, Calgary, and Edmonton are among its major economic and cultural centers.",
+    "area": "9.984.670",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "image": "/local/canada.png"
+  },
+  {
+    "country-code": "CAF",
+    "description": "The Central African Republic is a landlocked country in the heart of Africa, characterized by tropical forests, savannas, rivers, and extensive natural areas. Its central location places it between several major African ecological and cultural regions. Bangui, located on the Ubangi River, is the capital and largest city. The country is home to diverse communities and languages, with agriculture, natural resources, and traditional livelihoods playing important roles.",
+    "area": "622.984",
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "image": "/local/central-african-republic.png"
+  },
+  {
+    "country-code": "TCD",
+    "description": "Chad is a large landlocked country in north-central Africa, extending from the Sahara Desert in the north through the Sahel to more fertile savanna regions in the south. Lake Chad is an important geographical feature and a major source of water for surrounding communities. N'Djamena, located near the Chari River, is the capital and largest city. Chad's population includes many ethnic groups and languages reflecting its position between North and Sub-Saharan Africa.",
+    "area": "1.284.000",
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "image": "/local/chad.png"
+  },
+  {
+    "country-code": "CHL",
+    "description": "Chile is a long and narrow country along the western edge of South America, stretching between the Andes Mountains and the Pacific Ocean. Its extraordinary length creates a wide variety of climates, from the extremely dry Atacama Desert in the north to Mediterranean valleys and the glaciers of Patagonia in the south. Santiago is the capital and largest city, while Chile is also known for its wine regions, dramatic coastlines, and volcanic landscapes.",
+    "area": "756.102",
+    "languages": "Spanish",
+    "image": "/local/chile.png"
+  },
+  {
+    "country-code": "CHN",
+    "description": "China is one of the world's largest and most geographically diverse countries, extending from the Pacific coast across vast plains, deserts, plateaus, and mountain ranges. It has a civilization spanning thousands of years and has made major contributions to philosophy, science, technology, art, and literature. Beijing is the capital, while Shanghai, Guangzhou, Shenzhen, and other major cities form important economic and cultural centers within the country.",
+    "area": "9.596.960",
+    "languages": "Mandarin Chinese",
+    "image": "/local/china.png"
+  },
+  {
+    "country-code": "COL",
+    "description": "Colombia is a diverse South American country where the Andes, Amazon rainforest, Caribbean coast, Pacific coast, and tropical plains meet. Its varied geography supports remarkable biodiversity and a wide range of climates. Colombia has a rich cultural identity shaped by Indigenous, African, European, and other influences. Bogota is the high-altitude capital and largest urban center, while Medellin, Cali, and Cartagena are also important cultural, economic, and tourism destinations.",
+    "area": "1.141.748",
+    "languages": "Spanish",
+    "image": "/local/colombia.png"
+  },
+  {
+    "country-code": "COM",
+    "description": "Comoros is an island country in the Indian Ocean, located between Madagascar and the eastern coast of Africa. The archipelago is of volcanic origin and is known for tropical vegetation, beaches, marine ecosystems, and distinctive cultural traditions. Its population reflects African, Arab, Persian, and French influences. Moroni, located on Grande Comore, is the capital and an important center for administration, commerce, and cultural life.",
+    "area": "2.235",
+    "languages": [
+      "Comorian",
+      "Arabic",
+      "French"
+    ],
+    "image": "/local/comoros.png"
+  },
+  {
+    "country-code": "COG",
+    "description": "The Republic of the Congo is a Central African country with extensive tropical forests, river systems, and a relatively small Atlantic coastline. Much of its territory is covered by the Congo Basin rainforest, one of the world's most important tropical ecosystems. Brazzaville, the capital, lies along the Congo River opposite Kinshasa in the Democratic Republic of the Congo. The country's economy has historically relied heavily on petroleum and natural resources.",
+    "area": "342.000",
+    "languages": [
+      "French",
+      "Lingala",
+      "Kituba"
+    ],
+    "image": "/local/congo.png"
+  },
+  {
+    "country-code": "CRI",
+    "description": "Costa Rica is a small Central American country situated between the Pacific Ocean and Caribbean Sea. It is internationally recognized for its biodiversity, tropical forests, volcanoes, beaches, and extensive network of protected areas. Costa Rica has developed a strong reputation for nature tourism and environmental conservation. San Jose is the capital and largest urban center, while the country's varied landscapes support agriculture, tourism, and diverse ecosystems.",
+    "area": "51.100",
+    "languages": "Spanish",
+    "image": "/local/costa-rica.png"
+  },
+  {
+    "country-code": "CIV",
+    "description": "Cote d'Ivoire is a West African country on the Gulf of Guinea, known for its agricultural production, diverse cultures, and important coastal cities. The country contains tropical forests in the south and savanna landscapes toward the north. Abidjan is the largest city and the country's principal economic center, while Yamoussoukro is the official political capital. Cote d'Ivoire is a major producer of cocoa and other agricultural commodities.",
+    "area": "322.463",
+    "languages": "French",
+    "image": "/local/cote-d-ivoire.png"
+  },
+  {
+    "country-code": "HRV",
+    "description": "Croatia is a southeastern European country with a long Adriatic coastline, hundreds of islands, mountainous landscapes, and historic cities. Its territory reflects centuries of Roman, Venetian, Austro-Hungarian, and Slavic influence. Zagreb is the capital and largest city, while Dubrovnik, Split, and Zadar are internationally recognized for their historic architecture and coastal scenery. Croatia is also known for its national parks, Mediterranean cuisine, and tourism industry.",
+    "area": "56.594",
+    "languages": "Croatian",
+    "image": "/local/croatia.png"
+  },
+  {
+    "country-code": "CUB",
+    "description": "Cuba is the largest island in the Caribbean and is known for its tropical landscapes, colonial architecture, music, dance, and distinctive cultural identity. Havana, the capital, features historic neighborhoods, colorful buildings, and a famous waterfront promenade. Cuba's geography includes mountains, fertile plains, beaches, and extensive coastlines. Its cultural heritage reflects Indigenous, Spanish, African, and Caribbean influences developed over centuries.",
+    "area": "109.884",
+    "languages": "Spanish",
+    "image": "/local/cuba.png"
+  },
+  {
+    "country-code": "CYP",
+    "description": "Cyprus is an island country in the eastern Mediterranean Sea, located near the crossroads of Europe, Asia, and the Middle East. Its landscape includes beaches, mountains, forests, and fertile plains, while its history reflects Greek, Roman, Byzantine, Ottoman, and British influences. Nicosia is the capital and one of the island's most historically significant cities. Cyprus is known for its archaeological sites, Mediterranean climate, and distinctive cultural traditions.",
+    "area": "9.251",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "image": "/local/cyprus.png"
+  },
+  {
+    "country-code": "CZE",
+    "description": "Czechia is a landlocked country in Central Europe known for its medieval towns, castles, historic architecture, and rich cultural heritage. Prague, the capital, is famous for its historic center, Charles Bridge, and Gothic and Baroque architecture. The country also contains rolling hills, forests, rivers, and traditional spa towns. Czechia has played an important role in European history and is recognized for its contributions to literature, music, science, industry, and design.",
+    "area": "78.871",
+    "languages": "Czech",
+    "image": "/local/czechia.png"
+  },
+  {
+    "country-code": "COD",
+    "description": "The Democratic Republic of the Congo is one of Africa's largest countries and contains a substantial portion of the Congo Basin rainforest. Its territory includes tropical forests, savannas, mountains, rivers, and major lakes. The country is exceptionally rich in biodiversity and natural resources. Kinshasa, located along the Congo River, is the capital and one of Africa's largest metropolitan areas, serving as the country's main political, cultural, and economic center.",
+    "area": "2.344.858",
+    "languages": [
+      "French",
+      "Lingala",
+      "Swahili",
+      "Kikongo",
+      "Tshiluba"
+    ],
+    "image": "/local/democratic-republic-of-the-congo.png"
+  },
+  {
+    "country-code": "DNK",
+    "description": "Denmark is a Nordic country in Northern Europe consisting of the Jutland Peninsula and numerous islands, including Zealand and Funen. It is known for coastal landscapes, historic towns, cycling culture, modern design, and a strong maritime tradition. Copenhagen, the capital, is the country's largest city and an important cultural and economic center. Denmark also has autonomous territories in the North Atlantic, including Greenland and the Faroe Islands.",
+    "area": "43.094",
+    "languages": "Danish",
+    "image": "/local/denmark.png"
+  },
+  {
+    "country-code": "DJI",
+    "description": "Djibouti is a small country in the Horn of Africa, positioned near the Red Sea and the Gulf of Aden. Its strategic location has made it an important maritime and military center connecting Africa, the Middle East, and global shipping routes. The landscape includes volcanic formations, deserts, salt lakes, and rugged mountains. Djibouti City is the capital and largest urban center, while the country is culturally influenced by Somali, Afar, Arab, and French traditions.",
+    "area": "23.200",
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali",
+      "Afar"
+    ],
+    "image": "/local/djibouti.png"
+  },
+  {
+    "country-code": "DMA",
+    "description": "Dominica is a mountainous Caribbean island known for its lush rainforests, volcanic landscapes, rivers, waterfalls, and abundant biodiversity. Often associated with nature and outdoor exploration, the island contains several protected areas and volcanic features. Roseau, the capital, is located on the southwestern coast and serves as the country's principal commercial and administrative center. Dominica's culture combines African, European, Indigenous Caribbean, and broader Caribbean influences.",
+    "area": "751",
+    "languages": "English",
+    "image": "/local/dominica.png"
+  },
+  {
+    "country-code": "DOM",
+    "description": "The Dominican Republic occupies the eastern portion of the island of Hispaniola in the Caribbean and is known for tropical beaches, mountains, forests, and vibrant cultural traditions. Its heritage combines Spanish, African, and Indigenous Taíno influences. Santo Domingo, the capital, is one of the oldest European-founded cities in the Americas and contains a historic colonial district. Tourism, agriculture, manufacturing, and services are important parts of the country's economy.",
+    "area": "48.671",
+    "languages": "Spanish",
+    "image": "/local/dominican-republic.png"
+  },
+  {
+    "country-code": "ECU",
+    "description": "Ecuador is a geographically diverse country in northwestern South America, crossed by the Andes and extending from the Pacific coast into the Amazon Basin. It is internationally famous for the Galapagos Islands, whose unique ecosystems contributed to the development of modern evolutionary science. Quito, the high-altitude capital, is known for its historic center and mountain setting. Ecuador's culture reflects Indigenous, Spanish, African, and other influences.",
+    "area": "256.370",
+    "languages": [
+      "Spanish",
+      "Kichwa",
+      "Shuar"
+    ],
+    "image": "/local/ecuador.png"
+  },
+  {
+    "country-code": "EGY",
+    "description": "Egypt is a transcontinental country connecting northeastern Africa with the Sinai Peninsula in Asia. It is internationally known for its ancient civilization, pyramids, temples, and the Nile River, which has supported human settlement for thousands of years. Cairo is the capital and one of the largest cities in Africa and the Middle East. Egypt also controls the Suez Canal, an important global maritime route connecting the Mediterranean and Red Seas.",
+    "area": "1.001.450",
+    "languages": "Arabic",
+    "image": "/local/egypt.png"
+  },
+  {
+    "country-code": "SLV",
+    "description": "El Salvador is the smallest and most densely populated country in Central America. It is located along the Pacific coast and is characterized by volcanic mountains, fertile valleys, forests, and coastal landscapes. The country has a rich cultural heritage influenced by Indigenous peoples and Spanish colonial history. San Salvador is the capital and largest city, while agriculture, manufacturing, services, and tourism contribute significantly to the national economy.",
+    "area": "21.041",
+    "languages": "Spanish",
+    "image": "/local/el-salvador.png"
+  },
+  {
+    "country-code": "GNQ",
+    "description": "Equatorial Guinea is a Central African country consisting of a mainland region and several islands in the Gulf of Guinea. Its landscape includes tropical forests, volcanic islands, and coastal ecosystems. The country has significant petroleum resources and one of the region's higher levels of urban infrastructure. Malabo, located on Bioko Island, is the capital, while Bata on the mainland is an important commercial and population center.",
+    "area": "28.051",
+    "languages": [
+      "Spanish",
+      "French",
+      "Portuguese"
+    ],
+    "image": "/local/equatorial-guinea.png"
+  },
+  {
+    "country-code": "ERI",
+    "description": "Eritrea is a country in the Horn of Africa with a long Red Sea coastline and landscapes ranging from coastal deserts to highland plateaus. Its location has historically connected African, Arab, and Mediterranean cultures. Asmara, the capital, is known for its distinctive modernist architecture and elevated setting. Eritrea's cultural heritage includes several ethnic groups and languages, while its coastline provides access to important maritime routes in the Red Sea region.",
+    "area": "117.600",
+    "languages": [
+      "Tigrinya",
+      "Arabic",
+      "English"
+    ],
+    "image": "/local/eritrea.png"
+  },
+  {
+    "country-code": "EST",
+    "description": "Estonia is a Baltic country in Northern Europe known for its forests, islands, lakes, medieval architecture, and advanced digital society. Tallinn, the capital, features a remarkably preserved medieval old town alongside a modern technology-driven economy. Estonia has strong cultural connections with the other Baltic and Nordic countries and is known for its choral traditions. Its extensive coastline and natural areas provide diverse habitats and attractive landscapes throughout the country.",
+    "area": "45.339",
+    "languages": "Estonian",
+    "image": "/local/estonia.png"
+  },
+  {
+    "country-code": "SWZ",
+    "description": "Eswatini is a small landlocked kingdom in southern Africa, known for its mountainous terrain, wildlife reserves, traditional culture, and royal heritage. The country contains diverse landscapes ranging from highveld mountains to lower savanna regions. Mbabane is the administrative capital, while Lobamba serves as a traditional and legislative center. Eswatini is culturally distinctive for its ceremonies, crafts, music, and strong traditions that remain important in contemporary national life.",
+    "area": "17.364",
+    "languages": [
+      "Swazi",
+      "English"
+    ],
+    "image": "/local/eswatini.png"
+  },
+  {
+    "country-code": "ETH",
+    "description": "Ethiopia is a large and historically significant country in the Horn of Africa, known for its highlands, ancient civilizations, diverse cultures, and distinctive landscapes. It is one of Africa's most geographically varied nations, with mountains, plateaus, valleys, and arid regions. Addis Ababa is the capital and a major diplomatic center, hosting numerous international organizations. Ethiopia is also renowned for its ancient Christian traditions, coffee culture, and historic sites.",
+    "area": "1.104.300",
+    "languages": [
+      "Amharic",
+      "Oromo",
+      "Somali",
+      "Tigrinya",
+      "Afar"
+    ],
+    "image": "/local/ethiopia.png"
+  },
+  {
+    "country-code": "FJI",
+    "description": "Fiji is an island country in the South Pacific Ocean, made up of more than 300 islands surrounded by coral reefs and tropical waters. It is known for its beautiful beaches, mountainous landscapes, rainforests, and rich marine biodiversity. Fiji has a multicultural society influenced by Indigenous Fijian, Indian, European, and other Pacific traditions. Suva, located on the island of Viti Levu, is the capital and the country's main political, commercial, and cultural center.",
+    "area": "18.274",
+    "languages": [
+      "English",
+      "Fijian",
+      "Hindi"
+    ],
+    "image": "/local/fiji.png"
+  },
+  {
+    "country-code": "FIN",
+    "description": "Finland is a Nordic country in Northern Europe, famous for its forests, thousands of lakes, northern landscapes, and strong connection with nature. The country experiences long summer days and dark winters, particularly in its northern regions. Helsinki, the capital, is located on the Baltic Sea and serves as the country's main political, economic, and cultural center. Finland is also recognized for its education system, modern design, technology sector, and high quality of life.",
+    "area": "338.455",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "image": "/local/finland.png"
+  },
+  {
+    "country-code": "FRA",
+    "description": "France is a country in Western Europe known for its extraordinary cultural heritage, historic cities, cuisine, art, fashion, and diverse landscapes. Its territory includes Mediterranean beaches, Atlantic coasts, Alpine mountains, vineyards, forests, and fertile plains. Paris, the capital, is one of the world's most visited cities and a major center of culture, business, and diplomacy. France also has a significant historical and cultural influence extending far beyond Europe.",
+    "area": "551.695",
+    "languages": "French",
+    "image": "/local/france.png"
+  },
+  {
+    "country-code": "GAB",
+    "description": "Gabon is a country on the west coast of Central Africa, bordered by the Atlantic Ocean and covered by extensive areas of tropical rainforest. Its forests are home to remarkable biodiversity, including elephants, gorillas, and other wildlife. Libreville, the capital and largest city, is located along the Atlantic coast and serves as the country's main economic and political center. Gabon's economy is supported by petroleum, mining, forestry, and other natural resources.",
+    "area": "267.668",
+    "languages": "French",
+    "image": "/local/gabon.png"
+  },
+  {
+    "country-code": "GMB",
+    "description": "The Gambia is a small West African country almost entirely surrounded by Senegal, following the course of the Gambia River toward the Atlantic Ocean. Its landscape consists largely of river valleys, savannas, wetlands, and coastal areas. Banjul is the capital, while the greater urban area around Serrekunda is the country's largest population center. Tourism, agriculture, fishing, and services are important parts of the economy, while local traditions reflect diverse West African cultures.",
+    "area": "11.295",
+    "languages": [
+      "English",
+      "Mandinka",
+      "Wolof",
+      "Fula"
+    ],
+    "image": "/local/gambia.png"
+  },
+  {
+    "country-code": "GEO",
+    "description": "Georgia is a country in the South Caucasus, situated between the Black Sea and the Greater Caucasus Mountains. Its landscape ranges from subtropical coastal regions to high mountain areas and fertile valleys. Georgia has a long cultural history, with distinctive traditions in architecture, music, cuisine, and winemaking. Tbilisi, the capital, combines historic neighborhoods with modern development and serves as the country's main political, economic, and cultural center.",
+    "area": "69.700",
+    "languages": "Georgian",
+    "image": "/local/georgia.png"
+  },
+  {
+    "country-code": "DEU",
+    "description": "Germany is a major country in Central Europe known for its industrial strength, historic cities, cultural institutions, forests, rivers, and castles. Its modern identity has been shaped by centuries of political, scientific, artistic, and economic development. Berlin, the capital, is a major European center for politics, culture, technology, and creativity. Other cities such as Munich, Hamburg, Frankfurt, and Cologne are important centers of business, manufacturing, education, and cultural life.",
+    "area": "357.022",
+    "languages": "German",
+    "image": "/local/germany.png"
+  },
+  {
+    "country-code": "GHA",
+    "description": "Ghana is a West African country located along the Gulf of Guinea, known for its tropical coastline, forests, savannas, and rich cultural traditions. Its history includes powerful kingdoms, coastal trading centers, and important sites connected to the transatlantic slave trade. Accra, the capital, is a major economic and cultural hub. Ghana is also one of Africa's important producers of cocoa and gold, while music, festivals, crafts, and traditional communities remain central to national culture.",
+    "area": "238.533",
+    "languages": [
+      "English",
+      "Akan",
+      "Ewe",
+      "Dagbani"
+    ],
+    "image": "/local/ghana.png"
+  },
+  {
+    "country-code": "GRC",
+    "description": "Greece is a southeastern European country known for its ancient civilization, thousands of islands, Mediterranean coastline, mountains, and rich cultural heritage. Ancient Greek contributions to philosophy, democracy, science, literature, and the arts have influenced civilizations around the world. Athens, the capital, combines ancient landmarks with a modern metropolitan environment. Greece is also famous for destinations such as Santorini, Crete, Rhodes, and the historic archaeological sites spread throughout the country.",
+    "area": "131.957",
+    "languages": "Greek",
+    "image": "/local/greece.png"
+  },
+  {
+    "country-code": "GRD",
+    "description": "Grenada is a small Caribbean island country known for tropical forests, volcanic landscapes, beaches, and fragrant spice plantations. Often associated with nutmeg and other spices, the island has a strong agricultural and maritime heritage. St. George's, the capital, is famous for its colorful waterfront and hillside setting around a natural harbor. Grenada's culture reflects African, European, Caribbean, and Indigenous influences expressed through music, festivals, cuisine, and traditional celebrations.",
+    "area": "344",
+    "languages": "English",
+    "image": "/local/grenada.png"
+  },
+  {
+    "country-code": "GTM",
+    "description": "Guatemala is a Central American country known for its dramatic volcanoes, highlands, tropical forests, lakes, and ancient Maya heritage. The country contains numerous archaeological sites, including the famous ruins of Tikal, which reflect the achievements of the ancient Maya civilization. Guatemala City is the modern capital and largest urban center, while Antigua Guatemala preserves impressive colonial architecture. Indigenous cultures remain an important part of the country's identity, particularly among Maya communities.",
+    "area": "108.889",
+    "languages": [
+      "Spanish",
+      "K'iche'",
+      "Q'eqchi'",
+      "Kaqchikel",
+      "Mam"
+    ],
+    "image": "/local/guatemala.png"
+  },
+  {
+    "country-code": "GIN",
+    "description": "Guinea is a West African country with a diverse landscape that includes coastal plains, highlands, forests, and savannas. The country is rich in natural resources, particularly bauxite, iron ore, gold, and other minerals. Conakry, located on the Atlantic coast, is the capital and largest city and serves as the country's principal economic and political center. Guinea's population includes many ethnic communities, each contributing distinctive traditions, languages, music, and cultural practices.",
+    "area": "245.857",
+    "languages": "French",
+    "image": "/local/guinea.png"
+  },
+  {
+    "country-code": "GNB",
+    "description": "Guinea-Bissau is a small West African country on the Atlantic coast, characterized by tropical forests, mangrove wetlands, rivers, and numerous offshore islands. The Bijagos Archipelago is particularly known for its biodiversity and traditional island communities. Bissau, the capital, is the country's largest city and main administrative and commercial center. Portuguese is the official language, while several African languages and Guinea-Bissau Creole are widely used in everyday communication and cultural life.",
+    "area": "36.125",
+    "languages": [
+      "Portuguese",
+      "Guinea-Bissau Creole"
+    ],
+    "image": "/local/guinea-bissau.png"
+  },
+  {
+    "country-code": "GUY",
+    "description": "Guyana is a South American country on the Atlantic coast, known for vast tropical forests, powerful rivers, savannas, and exceptional biodiversity. Much of its territory remains sparsely populated and covered by natural ecosystems. Georgetown, the capital, lies along the Atlantic coast and is the country's main commercial and administrative center. Guyana's multicultural society reflects Indigenous, African, Indian, European, and other influences, while natural resources and agriculture play important roles in its economy.",
+    "area": "214.969",
+    "languages": "English",
+    "image": "/local/guyana.png"
+  },
+  {
+    "country-code": "HTI",
+    "description": "Haiti occupies the western portion of the Caribbean island of Hispaniola and is known for its mountainous landscapes, vibrant cultural traditions, and complex history. Haitian culture combines African, European, and Caribbean influences and is particularly recognized for its music, art, cuisine, and distinctive traditions. Port-au-Prince is the capital and largest city. Despite significant economic and social challenges, Haiti maintains a strong cultural identity and a rich artistic heritage.",
+    "area": "27.750",
+    "languages": [
+      "Haitian Creole",
+      "French"
+    ],
+    "image": "/local/haiti.png"
+  },
+  {
+    "country-code": "HND",
+    "description": "Honduras is a Central American country with Caribbean and Pacific coastlines, mountainous interior regions, tropical forests, and fertile valleys. It is home to important archaeological sites associated with the ancient Maya civilization, including Copan. Tegucigalpa is the capital and largest political center, while San Pedro Sula is an important industrial and commercial city. Honduras is also known for its coral reefs, particularly around the Bay Islands, and for its diverse ecosystems and wildlife.",
+    "area": "112.492",
+    "languages": "Spanish",
+    "image": "/local/honduras.png"
+  },
+  {
+    "country-code": "HUN",
+    "description": "Hungary is a landlocked country in Central Europe, centered around the Danube River and known for its historic cities, thermal baths, architecture, and rich cultural traditions. Budapest, the capital, is divided by the Danube and is famous for landmarks such as the Parliament Building, Buda Castle, and historic thermal baths. Hungary has a long history influenced by Roman, medieval, Ottoman, Habsburg, and modern European developments, as well as a distinctive culinary and musical heritage.",
+    "area": "93.030",
+    "languages": "Hungarian",
+    "image": "/local/hungary.png"
+  },
+  {
+    "country-code": "ISL",
+    "description": "Iceland is a Nordic island country in the North Atlantic, famous for volcanoes, glaciers, waterfalls, geothermal springs, and dramatic coastal landscapes. Its location along the Mid-Atlantic Ridge contributes to its exceptional geological activity. Reykjavik, the capital, is the country's largest city and a center for culture, government, and commerce. Iceland is also known for the Northern Lights, geothermal energy, fishing traditions, and a strong literary heritage.",
+    "area": "103.000",
+    "languages": "Icelandic",
+    "image": "/local/iceland.png"
+  },
+  {
+    "country-code": "IND",
+    "description": "India is one of the world's largest and most culturally diverse countries, stretching from the Himalayan mountains to tropical coastlines and from the Thar Desert to fertile river plains. Its history includes ancient civilizations, major empires, and numerous religious and cultural traditions. New Delhi is the national capital, while cities such as Mumbai, Bengaluru, Kolkata, and Chennai are major economic and cultural centers. India is also known for its cuisine, literature, cinema, science, and technological innovation.",
+    "area": "3.287.263",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "image": "/local/india.png"
+  },
+  {
+    "country-code": "IDN",
+    "description": "Indonesia is a vast archipelago in Southeast Asia and Oceania consisting of thousands of islands stretching between the Indian and Pacific oceans. It is known for tropical forests, volcanoes, coral reefs, beaches, and extraordinary biodiversity. Indonesia has one of the world's largest populations and an exceptionally diverse cultural landscape. Jakarta is the country's largest metropolitan center, while Indonesian cities and islands such as Bali, Java, Sumatra, and Sulawesi attract visitors with distinctive traditions and environments.",
+    "area": "1.904.569",
+    "languages": "Indonesian",
+    "image": "/local/indonesia.png"
+  },
+  {
+    "country-code": "IRN",
+    "description": "Iran is a large country in Western Asia with a history spanning thousands of years and a rich Persian cultural heritage. Its landscape includes mountain ranges, deserts, fertile plains, and coastlines along the Persian Gulf and Caspian Sea. Tehran is the capital and largest urban center, while cities such as Isfahan, Shiraz, and Mashhad are important cultural and historical destinations. Iran is renowned for its architecture, poetry, gardens, cuisine, carpets, and ancient archaeological sites.",
+    "area": "1.648.195",
+    "languages": "Persian",
+    "image": "/local/iran.png"
+  },
+  {
+    "country-code": "IRQ",
+    "description": "Iraq is a country in Western Asia situated between the Tigris and Euphrates rivers, an area historically known as Mesopotamia. It is associated with some of the world's earliest civilizations, including ancient Sumer, Akkad, Babylon, and Assyria. Baghdad, the capital, is located along the Tigris River and remains the country's principal political and cultural center. Iraq also contains important religious, archaeological, and historical sites reflecting its long and diverse heritage.",
+    "area": "438.317",
+    "languages": [
+      "Arabic",
+      "Kurdish"
+    ],
+    "image": "/local/iraq.png"
+  },
+  {
+    "country-code": "IRL",
+    "description": "Ireland is an island country in northwestern Europe known for its green landscapes, rugged Atlantic coastline, historic castles, literary traditions, and distinctive cultural identity. Dublin, the capital, is the country's largest city and an important center for technology, business, education, and the arts. Ireland's countryside includes rolling hills, dramatic cliffs, lakes, and rural villages. Its history and culture have been shaped by Celtic traditions, Christianity, English influence, and modern European development.",
+    "languages": [
+      "Irish",
+      "English"
+    ],
+    "area": "70.273",
+    "image": "/local/ireland.png"
+  },
+  {
+    "country-code": "ISR",
+    "description": "Israel is a country in the eastern Mediterranean region, known for its diverse landscapes, ancient archaeological sites, and importance to several major religious traditions. Its territory includes Mediterranean coastlines, mountain regions, desert landscapes, and the Dead Sea. Jerusalem is a major historical and religious center, while Tel Aviv is an important economic, technological, and cultural hub. Israel's modern society combines communities and traditions originating from many parts of the world.",
+    "area": "22.145",
+    "languages": [
+      "Hebrew",
+      "Arabic"
+    ],
+    "image": "/local/israel.png"
+  },
+  {
+    "country-code": "ITA",
+    "description": "Italy is a southern European country extending into the Mediterranean Sea and including numerous islands. It is renowned for its ancient Roman heritage, Renaissance art, architecture, cuisine, fashion, and diverse regional cultures. Rome, the capital, contains landmarks spanning thousands of years of history, while cities such as Florence, Venice, Milan, and Naples are major cultural and economic centers. Italy's geography ranges from the Alps and Apennines to Mediterranean beaches, vineyards, lakes, and fertile plains.",
+    "area": "301.340",
+    "languages": "Italian",
+    "image": "/local/italy.png"
+  },
+  {
+    "country-code": "JAM",
+    "description": "Jamaica is a Caribbean island country known for tropical mountains, beaches, forests, music, and vibrant cultural traditions. The island has had a major influence on global music through genres such as reggae, ska, and dancehall. Kingston, the capital, is the country's largest city and a major cultural and commercial center. Jamaica's heritage reflects African, European, Asian, and Caribbean influences, while tourism, agriculture, manufacturing, and services are important components of its economy.",
+    "area": "10.991",
+    "languages": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "image": "/local/jamaica.png"
+  },
+  {
+    "country-code": "JPN",
+    "description": "Japan is an island country in East Asia known for its advanced technology, ancient traditions, distinctive cuisine, and remarkable natural landscapes. The country consists of thousands of islands, with the main islands including Honshu, Hokkaido, Kyushu, and Shikoku. Tokyo is the capital and one of the world's largest metropolitan areas. Japan combines historic temples, gardens, and cultural practices with highly developed cities, transportation systems, industries, and technological innovation.",
+    "area": "377.975",
+    "languages": "Japanese",
+    "image": "/local/japan.png"
+  },
+  {
+    "country-code": "JOR",
+    "description": "Jordan is a country in Western Asia known for its ancient archaeological sites, desert landscapes, and important historical and religious heritage. The ancient city of Petra, carved into rose-colored sandstone cliffs, is one of the country's most famous landmarks. Amman is the capital and largest city, combining ancient ruins with a modern urban environment. Jordan also contains the Dead Sea, the Wadi Rum desert, and important sites connected to the history of the Middle East.",
+    "area": "89.342",
+    "languages": "Arabic",
+    "image": "/local/jordan.png"
+  },
+  {
+    "country-code": "KAZ",
+    "description": "Kazakhstan is the world's largest landlocked country, stretching across Central Asia from the Caspian Sea toward China and Russia. Its territory contains vast steppes, deserts, mountains, lakes, and semi-arid landscapes. Astana is the capital and a modern architectural center, while Almaty remains an important cultural and economic city. Kazakhstan has a diverse population and a strategic position between Europe and Asia, with significant natural resources including oil, gas, uranium, and minerals.",
+    "area": "2.724.900",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "image": "/local/kazakhstan.png"
+  },
+  {
+    "country-code": "KEN",
+    "description": "Kenya is an East African country known for its diverse landscapes, abundant wildlife, and cultural heritage. Its territory ranges from Indian Ocean beaches and tropical forests to highlands, savannas, and the Great Rift Valley. Kenya is famous for wildlife reserves such as the Maasai Mara and for the annual migration of millions of animals across the region. Nairobi is the capital and largest city, serving as a major economic, diplomatic, and transportation center in East Africa.",
+    "area": "580.367",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "image": "/local/kenya.png"
+  },
+  {
+    "country-code": "KIR",
+    "description": "Kiribati is an island country in the central Pacific Ocean made up of numerous atolls and reef islands spread across a vast area of ocean. Its low-lying islands are surrounded by lagoons and coral reefs and are particularly vulnerable to rising sea levels and environmental changes. South Tarawa is the capital and most populated area. Kiribati has a strong maritime culture, with traditional fishing, navigation, community life, and Pacific Island customs playing important roles.",
+    "area": "811",
+    "languages": [
+      "English",
+      "Gilbertese"
+    ],
+    "image": "/local/kiribati.png"
+  },
+  {
+    "country-code": "KWT",
+    "description": "Kuwait is a small country on the northwestern coast of the Persian Gulf, known for its desert landscape, maritime heritage, and significant petroleum resources. Kuwait City, the capital, is a modern urban center featuring distinctive architecture, commercial districts, and waterfront developments. The country's economy has historically been strongly connected to oil production, while its location has made it an important regional trading and financial center. Kuwait also has a rich cultural heritage influenced by Gulf and Arab traditions.",
+    "area": "17.818",
+    "languages": "Arabic",
+    "image": "/local/kuwait.png"
+  },
+  {
+    "country-code": "KGZ",
+    "description": "Kyrgyzstan is a mountainous country in Central Asia known for dramatic alpine landscapes, high-altitude lakes, valleys, and nomadic cultural traditions. The Tian Shan mountain range dominates much of the country's geography and provides opportunities for trekking, skiing, and horseback travel. Bishkek is the capital and largest city, located near the mountains in the Chuy Valley. Kyrgyzstan retains strong traditions associated with nomadic life, including felt crafts, horse culture, and traditional yurts.",
+    "area": "199.951",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "image": "/local/kyrgyzstan.png"
+  },
+  {
+    "country-code": "LAO",
+    "description": "Laos is a landlocked country in mainland Southeast Asia, characterized by mountains, forests, rivers, and traditional villages. The Mekong River plays an important role in the country's geography, economy, and culture. Laos has a strong Buddhist heritage and is known for historic temples and cultural sites, particularly around Luang Prabang. Vientiane is the capital and largest city, while agriculture, hydropower, tourism, and natural resources are important components of the national economy.",
+    "area": "236.800",
+    "languages": "Lao",
+    "image": "/local/laos.png"
+  },
+  {
+    "country-code": "LVA",
+    "description": "Latvia is a Baltic country in Northern Europe known for its forests, lakes, rivers, sandy coastline, and historic towns. Riga, the capital and largest city, is famous for its Art Nouveau architecture, medieval old town, and role as a regional cultural center. Latvia has a strong tradition of choral music and folk festivals and shares cultural connections with its Baltic neighbors. Its natural landscapes and extensive coastline contribute to a growing tourism and outdoor recreation sector.",
+    "area": "64.589",
+    "languages": "Latvian",
+    "image": "/local/latvia.png"
+  },
+  {
+    "country-code": "LBN",
+    "description": "Lebanon is a small country on the eastern Mediterranean coast, known for its mountainous landscapes, ancient cities, Mediterranean cuisine, and cultural diversity. Its history includes Phoenician, Roman, Byzantine, Arab, Ottoman, and modern influences. Beirut is the capital and largest city, serving as an important cultural, commercial, and educational center. Lebanon is also home to historic sites such as Baalbek, Byblos, and the Cedars of God, reflecting its exceptionally long history.",
+    "area": "10.452",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "image": "/local/lebanon.png"
+  },
+  {
+    "country-code": "LSO",
+    "description": "Lesotho is a small landlocked kingdom completely surrounded by South Africa and is notable for its high elevation and mountainous terrain. Much of the country lies more than 1,000 meters above sea level, earning it the nickname Kingdom in the Sky. Maseru is the capital and largest city. Lesotho has a strong Basotho cultural identity, with traditional clothing, music, crafts, and community traditions remaining important aspects of national life.",
+    "area": "30.355",
+    "languages": [
+      "Sesotho",
+      "English"
+    ],
+    "image": "/local/lesotho.png"
+  },
+  {
+    "country-code": "LBR",
+    "description": "Liberia is a West African country on the Atlantic coast, known for tropical forests, sandy beaches, rivers, and a history closely connected to the settlement of freed African Americans in the nineteenth century. Monrovia, the capital, is the country's largest city and principal commercial center. Liberia has extensive natural resources and a diverse population with many ethnic communities. Its cultural identity combines Indigenous West African traditions with influences from the United States and Caribbean.",
+    "area": "111.369",
+    "languages": [
+      "English",
+      "Kpelle",
+      "Bassa",
+      "Kru"
+    ],
+    "image": "/local/liberia.png"
+  },
+  {
+    "country-code": "LBY",
+    "description": "Libya is a large North African country stretching from the Mediterranean coast deep into the Sahara Desert. Most of its territory is arid, while the northern coastline contains the majority of its population and major cities. Tripoli is the capital and largest urban center, while Benghazi is another important city. Libya possesses substantial petroleum resources and has a long history influenced by ancient Mediterranean civilizations, Arab culture, Ottoman rule, and modern North African developments.",
+    "area": "1.759.540",
+    "languages": "Arabic",
+    "image": "/local/libya.png"
+  },
+  {
+    "country-code": "LIE",
+    "description": "Liechtenstein is a small landlocked country in Central Europe located between Switzerland and Austria. It lies within the Alps and is known for mountain scenery, hiking trails, historic castles, and a highly developed economy. Vaduz is the capital and administrative center, while the country maintains close economic and cultural connections with Switzerland. Despite its small size, Liechtenstein has a significant financial sector and a strong reputation for political stability and high living standards.",
+    "area": "160",
+    "languages": "German",
+    "image": "/local/liechtenstein.png"
+  },
+  {
+    "country-code": "LTU",
+    "description": "Lithuania is the southernmost of the Baltic states and is located along the southeastern coast of the Baltic Sea. It is known for forests, lakes, historic towns, medieval architecture, and a strong national cultural tradition. Vilnius, the capital, has a well-preserved historic center featuring Gothic, Renaissance, Baroque, and classical architecture. Lithuania has played an important role in the history of the Baltic region and is recognized for its language, folk traditions, music, and rapidly developing modern economy.",
+    "area": "65.300",
+    "languages": "Lithuanian",
+    "image": "/local/lithuania.png"
+  },
+  {
+    "country-code": "LUX",
+    "description": "Luxembourg is a small landlocked country in Western Europe known for its historic fortifications, wooded landscapes, castles, and highly developed economy. Luxembourg City, the capital, is built around dramatic valleys and historic defensive structures and serves as an important European political and financial center. The country has a multilingual and multicultural population and hosts several European Union institutions. Luxembourg combines a rich medieval heritage with modern finance, technology, and international business.",
+    "area": "2.586",
+    "languages": [
+      "Luxembourgish",
+      "French",
+      "German"
+    ],
+    "image": "/local/luxembourg.png"
+  },
+  {
+    "country-code": "LVA",
+    "description": "Latvia is a Baltic country in Northern Europe known for its forests, lakes, rivers, sandy coastline, and historic towns. Riga, the capital and largest city, is famous for its Art Nouveau architecture, medieval old town, and role as a regional cultural center. Latvia has a strong tradition of choral music and folk festivals and shares cultural connections with its Baltic neighbors. Its natural landscapes and extensive coastline contribute to a growing tourism and outdoor recreation sector.",
+    "area": "64.589",
+    "languages": "Latvian",
+    "image": "/local/latvia.png"
+  },
+  {
+    "country-code": "LBN",
+    "description": "Lebanon is a small country on the eastern Mediterranean coast, known for its mountainous landscapes, ancient cities, Mediterranean cuisine, and cultural diversity. Its history includes Phoenician, Roman, Byzantine, Arab, Ottoman, and modern influences. Beirut is the capital and largest city, serving as an important cultural, commercial, and educational center. Lebanon is also home to historic sites such as Baalbek, Byblos, and the Cedars of God, reflecting its exceptionally long history.",
+    "area": "10.452",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "image": "/local/lebanon.png"
+  },
+  {
+    "country-code": "LSO",
+    "description": "Lesotho is a small landlocked kingdom completely surrounded by South Africa and is notable for its high elevation and mountainous terrain. Much of the country lies more than 1,000 meters above sea level, earning it the nickname Kingdom in the Sky. Maseru is the capital and largest city. Lesotho has a strong Basotho cultural identity, with traditional clothing, music, crafts, and community traditions remaining important aspects of national life.",
+    "area": "30.355",
+    "languages": [
+      "Sesotho",
+      "English"
+    ],
+    "image": "/local/lesotho.png"
+  },
+  {
+    "country-code": "LBR",
+    "description": "Liberia is a West African country on the Atlantic coast, known for tropical forests, sandy beaches, rivers, and a history closely connected to the settlement of freed African Americans in the nineteenth century. Monrovia, the capital, is the country's largest city and principal commercial center. Liberia has extensive natural resources and a diverse population with many ethnic communities. Its cultural identity combines Indigenous West African traditions with influences from the United States and Caribbean.",
+    "area": "111.369",
+    "languages": [
+      "English",
+      "Kpelle",
+      "Bassa",
+      "Kru"
+    ],
+    "image": "/local/liberia.png"
+  },
+  {
+    "country-code": "LBY",
+    "description": "Libya is a large North African country stretching from the Mediterranean coast deep into the Sahara Desert. Most of its territory is arid, while the northern coastline contains the majority of its population and major cities. Tripoli is the capital and largest urban center, while Benghazi is another important city. Libya possesses substantial petroleum resources and has a long history influenced by ancient Mediterranean civilizations, Arab culture, Ottoman rule, and modern North African developments.",
+    "area": "1.759.540",
+    "languages": "Arabic",
+    "image": "/local/libya.png"
+  },
+  {
+    "country-code": "LIE",
+    "description": "Liechtenstein is a small landlocked country in Central Europe located between Switzerland and Austria. It lies within the Alps and is known for mountain scenery, hiking trails, historic castles, and a highly developed economy. Vaduz is the capital and administrative center, while the country maintains close economic and cultural connections with Switzerland. Despite its small size, Liechtenstein has a significant financial sector and a strong reputation for political stability and high living standards.",
+    "area": "160",
+    "languages": "German",
+    "image": "/local/liechtenstein.png"
+  },
+  {
+    "country-code": "LTU",
+    "description": "Lithuania is the southernmost of the Baltic states and is located along the southeastern coast of the Baltic Sea. It is known for forests, lakes, historic towns, medieval architecture, and a strong national cultural tradition. Vilnius, the capital, has a well-preserved historic center featuring Gothic, Renaissance, Baroque, and classical architecture. Lithuania has played an important role in the history of the Baltic region and is recognized for its language, folk traditions, music, and rapidly developing modern economy.",
+    "area": "65.300",
+    "languages": "Lithuanian",
+    "image": "/local/lithuania.png"
+  },
+  {
+    "country-code": "LUX",
+    "description": "Luxembourg is a small landlocked country in Western Europe known for its historic fortifications, wooded landscapes, castles, and highly developed economy. Luxembourg City, the capital, is built around dramatic valleys and historic defensive structures and serves as an important European political and financial center. The country has a multilingual and multicultural population and hosts several European Union institutions. Luxembourg combines a rich medieval heritage with modern finance, technology, and international business.",
+    "area": "2.586",
+    "languages": [
+      "Luxembourgish",
+      "French",
+      "German"
+    ],
+    "image": "/local/luxembourg.png"
+  },
+  {
+    "country-code": "MDG",
+    "description": "Madagascar is a large island country in the Indian Ocean, located off the southeastern coast of Africa. It is famous for its extraordinary biodiversity, with many plant and animal species found nowhere else on Earth, including lemurs and distinctive baobab trees. Antananarivo is the capital and largest city, situated in the central highlands. Madagascar's landscapes range from tropical rainforests and mountains to dry forests, grasslands, and beautiful coastal regions.",
+    "area": "587.041",
+    "languages": [
+      "Malagasy",
+      "French"
+    ],
+    "image": "/local/madagascar.png"
+  },
+  {
+    "country-code": "MWI",
+    "description": "Malawi is a landlocked country in southeastern Africa, known for the scenic Lake Malawi, mountainous landscapes, fertile highlands, and warm cultural traditions. The lake occupies a significant portion of the country's eastern region and supports fishing, tourism, transportation, and diverse ecosystems. Lilongwe is the capital, while Blantyre is an important commercial center. Malawi's economy is strongly connected to agriculture, with tea, tobacco, sugar, and other crops playing important roles.",
+    "area": "118.484",
+    "languages": [
+      "English",
+      "Chichewa"
+    ],
+    "image": "/local/malawi.png"
+  },
+  {
+    "country-code": "MYS",
+    "description": "Malaysia is a Southeast Asian country divided between the Malay Peninsula and the island of Borneo. It is known for tropical rainforests, diverse wildlife, modern cities, beaches, and a multicultural society influenced by Malay, Chinese, Indian, Indigenous, and other traditions. Kuala Lumpur is the capital and a major economic center, while Putrajaya serves as the federal administrative center. Malaysia's economy includes manufacturing, technology, trade, agriculture, energy, and tourism.",
+    "area": "330.803",
+    "languages": "Malay",
+    "image": "/local/malaysia.png"
+  },
+  {
+    "country-code": "MDV",
+    "description": "Maldives is an island country in the Indian Ocean made up of numerous coral atolls and hundreds of small islands. It is famous for turquoise lagoons, coral reefs, white-sand beaches, and rich marine biodiversity. Male, located on one of the most densely populated islands, is the capital and principal administrative and commercial center. Tourism is central to the economy, while traditional fishing and maritime culture remain important parts of Maldivian identity.",
+    "area": "298",
+    "languages": "Dhivehi",
+    "image": "/local/maldives.png"
+  },
+  {
+    "country-code": "MLI",
+    "description": "Mali is a large landlocked country in West Africa extending from the Sahara Desert in the north to more fertile savanna regions in the south. It has a remarkable historical heritage associated with powerful West African empires, including the Mali and Songhai Empires. Bamako is the capital and largest city. The Niger River is an important geographical and economic feature, supporting agriculture, fishing, transportation, and communities across much of the country.",
+    "area": "1.240.192",
+    "languages": [
+      "French",
+      "Bambara"
+    ],
+    "image": "/local/mali.png"
+  },
+  {
+    "country-code": "MLT",
+    "description": "Malta is a small Mediterranean island country located south of Italy and known for its historic cities, limestone architecture, archaeological sites, and beautiful coastline. Its strategic position has made it an important crossroads between Europe, North Africa, and the Middle East for thousands of years. Valletta is the capital and a UNESCO-listed historic city. Malta has a distinctive cultural identity shaped by Mediterranean, European, Arab, and British influences.",
+    "area": "316",
+    "languages": [
+      "Maltese",
+      "English"
+    ],
+    "image": "/local/malta.png"
+  },
+  {
+    "country-code": "MHL",
+    "description": "The Marshall Islands is a Pacific island country consisting of numerous atolls and small coral islands spread across a vast area of the central Pacific Ocean. Its low-lying geography creates strong connections between communities and the surrounding sea. Majuro is the capital and largest population center. Marshallese culture has deep maritime traditions, including navigation, fishing, and craftsmanship. The islands are also known for their strategic importance during the twentieth century.",
+    "area": "181",
+    "languages": [
+      "Marshallese",
+      "English"
+    ],
+    "image": "/local/marshall-islands.png"
+  },
+  {
+    "country-code": "MRT",
+    "description": "Mauritania is a large country in northwestern Africa, where the Sahara Desert covers much of the territory before reaching the Atlantic coast. Its landscape includes vast dunes, rocky plateaus, desert valleys, and coastal wetlands. Nouakchott is the capital and largest city, located near the Atlantic Ocean. Mauritania has historically been shaped by Arab, Berber, and West African cultures, while mining, fishing, livestock, and natural resources are important parts of its economy.",
+    "area": "1.030.700",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "image": "/local/mauritania.png"
+  },
+  {
+    "country-code": "MUS",
+    "description": "Mauritius is an island country in the Indian Ocean, east of Madagascar, known for its volcanic landscapes, coral reefs, beaches, and multicultural society. The island has been influenced by African, European, Indian, and Asian traditions, creating a distinctive cultural environment. Port Louis is the capital and largest city, serving as the country's main commercial and administrative center. Tourism, financial services, manufacturing, agriculture, and technology are important components of the economy.",
+    "area": "2.040",
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "image": "/local/mauritius.png"
+  },
+  {
+    "country-code": "MEX",
+    "description": "Mexico is a large country in North America known for its ancient civilizations, diverse landscapes, vibrant cities, and rich cultural heritage. Its territory includes deserts, mountains, tropical forests, high plateaus, and extensive Pacific and Caribbean coastlines. Mexico City is the capital and one of the world's largest metropolitan areas. The country's culture combines Indigenous, Spanish, African, and other influences and is internationally recognized for its cuisine, music, art, architecture, and traditions.",
+    "area": "1.964.375",
+    "languages": "Spanish",
+    "image": "/local/mexico.png"
+  },
+  {
+    "country-code": "FSM",
+    "description": "The Federated States of Micronesia is a Pacific island nation made up of hundreds of islands spread across the western Pacific Ocean. Its four main island states are Yap, Chuuk, Pohnpei, and Kosrae, each with distinct landscapes and cultural traditions. Palikir, located on Pohnpei, is the national capital. The country is known for coral reefs, tropical forests, traditional navigation, fishing communities, and rich maritime cultures developed over centuries across the Pacific.",
+    "area": "702",
+    "languages": [
+      "English",
+      "Chuukese",
+      "Kosraean",
+      "Pohnpeian",
+      "Yapese"
+    ],
+    "image": "/local/micronesia.png"
+  },
+  {
+    "country-code": "MDA",
+    "description": "Moldova is a landlocked country in Eastern Europe known for rolling hills, fertile agricultural land, vineyards, and a long winemaking tradition. Chisinau is the capital and largest city, serving as the country's main political, cultural, and economic center. Moldova's history has been influenced by Romanian, Slavic, Ottoman, Russian, and Soviet traditions. The country is particularly recognized for its wine industry, rural landscapes, monasteries, and distinctive regional culture.",
+    "area": "33.846",
+    "languages": "Romanian",
+    "image": "/local/moldova.png"
+  },
+  {
+    "country-code": "MCO",
+    "description": "Monaco is a small sovereign city-state on the French Riviera along the Mediterranean Sea. Despite its extremely small territory, it is internationally known for luxury tourism, finance, yachting, and the famous Monaco Grand Prix. Monte Carlo is the country's best-known district and contains the iconic casino and surrounding entertainment areas. Monaco's dramatic coastal setting, dense urban development, and mild Mediterranean climate make it one of the world's most distinctive microstates.",
+    "area": "2",
+    "languages": "French",
+    "image": "/local/monaco.png"
+  },
+  {
+    "country-code": "MNG",
+    "description": "Mongolia is a vast landlocked country in East and Central Asia, famous for its open steppes, deserts, mountains, and centuries-old nomadic traditions. The Gobi Desert occupies a large part of the south, while grasslands dominate much of the central and northern regions. Ulaanbaatar is the capital and largest city. Mongolia's cultural identity remains strongly connected to horse riding, pastoralism, traditional ger dwellings, and the legacy of the Mongol Empire.",
+    "area": "1.564.110",
+    "languages": "Mongolian",
+    "image": "/local/mongolia.png"
+  },
+  {
+    "country-code": "MNE",
+    "description": "Montenegro is a small country in southeastern Europe known for dramatic mountains, medieval towns, clear Adriatic waters, and scenic national parks. Its rugged coastline includes historic settlements such as Kotor, surrounded by steep mountains and a spectacular bay. Podgorica is the capital and largest city. Montenegro's cultural heritage reflects centuries of Slavic, Venetian, Ottoman, and Mediterranean influence, while tourism has become an important part of its modern economy.",
+    "area": "13.812",
+    "languages": "Montenegrin",
+    "image": "/local/montenegro.png"
+  },
+  {
+    "country-code": "MAR",
+    "description": "Morocco is a North African country with a diverse landscape stretching from the Atlantic and Mediterranean coasts to the Atlas Mountains and Sahara Desert. It is known for historic medinas, colorful markets, traditional architecture, and a rich cultural heritage influenced by Arab, Amazigh, African, and European traditions. Rabat is the capital, while cities such as Marrakech, Casablanca, Fez, and Tangier are major cultural, commercial, and tourism centers.",
+    "area": "446.550",
+    "languages": [
+      "Arabic",
+      "Amazigh"
+    ],
+    "image": "/local/morocco.png"
+  },
+  {
+    "country-code": "MOZ",
+    "description": "Mozambique is a southeastern African country with a long Indian Ocean coastline, tropical islands, savannas, forests, and fertile river valleys. Its coastal position has historically connected it with African, Arab, Indian, and Portuguese cultures. Maputo is the capital and largest city, located in the far south near the border with South Africa. Mozambique is known for its marine biodiversity, beaches, traditional music, and natural resources, while agriculture and energy are important to its economy.",
+    "area": "801.590",
+    "languages": "Portuguese",
+    "image": "/local/mozambique.png"
+  },
+  {
+    "country-code": "MMR",
+    "description": "Myanmar is a country in Southeast Asia with landscapes ranging from the Himalayan foothills and mountain regions to fertile river valleys, tropical forests, and long coastlines. The Irrawaddy River is central to the country's geography and agriculture. Naypyidaw is the capital, while Yangon remains an important commercial and cultural center. Myanmar has a rich Buddhist heritage, diverse ethnic communities, ancient cities, traditional arts, and historic sites such as Bagan.",
+    "area": "676.578",
+    "languages": "Burmese",
+    "image": "/local/myanmar.png"
+  },
+  {
+    "country-code": "NAM",
+    "description": "Namibia is a large country in southwestern Africa, famous for its dramatic desert landscapes, rugged coastline, and abundant wildlife. The Namib Desert stretches along much of the Atlantic coast and contains some of the world's highest sand dunes. Windhoek is the capital and largest city. Namibia is known for national parks such as Etosha, extensive conservation areas, and distinctive landscapes including the Skeleton Coast, while mining, tourism, agriculture, and fishing contribute to its economy.",
+    "area": "825.615",
+    "languages": [
+      "English",
+      "Afrikaans",
+      "Oshiwambo"
+    ],
+    "image": "/local/namibia.png"
+  },
+  {
+    "country-code": "NRU",
+    "description": "Nauru is a tiny island country in the central Pacific Ocean and one of the world's smallest independent states. The island is surrounded by coral reefs and has a narrow coastal plain around a raised interior. Yaren is commonly considered the country's main administrative district, although Nauru does not have an official capital. The island's history has been strongly influenced by phosphate mining, while its people maintain a distinctive Micronesian cultural identity.",
+    "area": "21",
+    "languages": [
+      "Nauruan",
+      "English"
+    ],
+    "image": "/local/nauru.png"
+  },
+  {
+    "country-code": "NPL",
+    "description": "Nepal is a landlocked country in South Asia located along the southern slopes of the Himalayas. It is home to Mount Everest and some of the world's highest mountains, as well as subtropical plains, forests, valleys, and diverse ecosystems. Kathmandu is the capital and cultural heart of the country, known for historic temples and traditional architecture. Nepal has a rich mixture of Hindu and Buddhist traditions and is internationally recognized for trekking, mountaineering, and spiritual tourism.",
+    "area": "147.516",
+    "languages": "Nepali",
+    "image": "/local/nepal.png"
+  },
+  {
+    "country-code": "NLD",
+    "description": "The Netherlands is a low-lying country in Western Europe known for canals, windmills, tulip fields, cycling culture, and historic cities. Much of the country lies close to or below sea level and is protected by an extensive system of dikes and water-management infrastructure. Amsterdam is the capital and a major cultural center, while The Hague is the seat of government. The Netherlands is also an important global center for trade, agriculture, logistics, technology, and international institutions.",
+    "area": "41.543",
+    "languages": "Dutch",
+    "image": "/local/netherlands.png"
+  },
+  {
+    "country-code": "NZL",
+    "description": "New Zealand is an island country in the southwestern Pacific Ocean consisting primarily of the North and South Islands. It is known for spectacular mountains, fjords, volcanic landscapes, forests, beaches, and distinctive wildlife. Wellington is the capital, while Auckland is the largest metropolitan area. New Zealand has a strong Maori cultural heritage alongside European influences, and its economy includes agriculture, tourism, technology, manufacturing, and services. The country is also famous for its outdoor lifestyle.",
+    "area": "268.021",
+    "languages": [
+      "English",
+      "Maori",
+      "New Zealand Sign Language"
+    ],
+    "image": "/local/new-zealand.png"
+  },
+  {
+    "country-code": "NIC",
+    "description": "Nicaragua is the largest country in Central America and is known for volcanic landscapes, tropical forests, freshwater lakes, and Pacific and Caribbean coastlines. Lake Nicaragua and Lake Managua are prominent geographical features, while numerous volcanoes shape the western landscape. Managua is the capital and largest city. Nicaragua has a rich cultural heritage influenced by Indigenous, Spanish, African, and Caribbean traditions, with agriculture, tourism, manufacturing, and services contributing to its economy.",
+    "area": "130.373",
+    "languages": "Spanish",
+    "image": "/local/nicaragua.png"
+  },
+  {
+    "country-code": "NER",
+    "description": "Niger is a large landlocked country in West Africa, with much of its territory covered by the Sahara Desert and the Sahel. The southern regions contain more fertile lands and support most of the country's population and agriculture. Niamey, located along the Niger River, is the capital and largest city. Niger has diverse cultural communities and a history shaped by trans-Saharan trade, West African kingdoms, and nomadic traditions, while uranium and agriculture are important economic sectors.",
+    "area": "1.267.000",
+    "languages": [
+      "French",
+      "Hausa"
+    ],
+    "image": "/local/niger.png"
+  },
+  {
+    "country-code": "NGA",
+    "description": "Nigeria is Africa's most populous country and one of its largest economies, located along the Gulf of Guinea. Its territory includes tropical forests, savannas, river systems, and diverse coastal environments. Abuja is the capital, while Lagos is the largest city and a major economic and cultural center. Nigeria has hundreds of ethnic groups and languages, creating an exceptionally diverse cultural landscape. Its economy includes petroleum, agriculture, manufacturing, telecommunications, finance, and creative industries.",
+    "area": "923.768",
+    "languages": [
+      "English",
+      "Hausa",
+      "Yoruba",
+      "Igbo"
+    ],
+    "image": "/local/nigeria.png"
+  },
+  {
+    "country-code": "PRK",
+    "description": "North Korea occupies the northern part of the Korean Peninsula in East Asia, bordered by China, Russia, and South Korea. Its landscape includes mountains, forests, river valleys, and coastal plains. Pyongyang is the capital and largest city and serves as the country's principal political and administrative center. Korean culture has a long historical tradition, with the country's modern history shaped significantly by the division of the Korean Peninsula following the Second World War.",
+    "area": "120.538",
+    "languages": "Korean",
+    "image": "/local/north-korea.png"
+  },
+  {
+    "country-code": "MKD",
+    "description": "North Macedonia is a landlocked country in southeastern Europe characterized by mountains, valleys, lakes, and historic settlements. Lake Ohrid is one of its most famous natural and cultural landmarks and is recognized for its exceptional biodiversity and ancient heritage. Skopje is the capital and largest city, located along the Vardar River. The country has a diverse cultural history shaped by ancient, Byzantine, Ottoman, Slavic, and modern European influences.",
+    "area": "25.713",
+    "languages": [
+      "Macedonian",
+      "Albanian"
+    ],
+    "image": "/local/north-macedonia.png"
+  },
+  {
+    "country-code": "NOR",
+    "description": "Norway is a Nordic country in Northern Europe famous for its dramatic fjords, mountains, glaciers, forests, and long Arctic coastline. Oslo is the capital and largest city, while cities such as Bergen, Trondheim, and Tromso are important cultural and regional centers. Norway has a strong maritime tradition and a highly developed economy supported by energy, shipping, fisheries, technology, and services. Northern areas are also known for the midnight sun and spectacular northern lights.",
+    "area": "385.207",
+    "languages": [
+      "Norwegian",
+      "Sami"
+    ],
+    "image": "/local/norway.png"
+  },
+  {
+    "country-code": "OMN",
+    "description": "Oman is a country on the southeastern Arabian Peninsula, known for dramatic mountains, desert landscapes, coastal plains, and a long maritime history. Muscat, the capital, lies between rugged mountains and the Gulf of Oman and is known for its distinctive architecture and waterfront. Oman has historically been an important trading nation connecting Arabia, East Africa, India, and the wider Indian Ocean. Today, its economy includes energy, logistics, tourism, fishing, and other industries.",
+    "area": "309.500",
+    "languages": "Arabic",
+    "image": "/local/oman.png"
+  },
+  {
+    "country-code": "PAK",
+    "description": "Pakistan is a large South Asian country extending from the Arabian Sea to the high mountains of the Himalayas, Karakoram, and Hindu Kush. Its geography includes deserts, fertile river plains, plateaus, forests, and some of the world's highest peaks. Islamabad is the capital, while Karachi and Lahore are major economic and cultural centers. Pakistan has a rich historical heritage influenced by ancient civilizations, Islamic traditions, Persian culture, South Asian societies, and diverse regional communities.",
+    "area": "881.912",
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "image": "/local/pakistan.png"
+  },
+  {
+    "country-code": "PLW",
+    "description": "Palau is an island country in the western Pacific Ocean consisting of hundreds of islands, many surrounded by coral reefs and tropical waters. It is internationally known for exceptional marine biodiversity, clear lagoons, limestone islands, and world-class diving. Ngerulmud is the capital, located on Babeldaob Island, while Koror remains the country's main population and commercial center. Palau has a strong maritime culture and places significant importance on environmental conservation.",
+    "area": "459",
+    "languages": [
+      "Palauan",
+      "English"
+    ],
+    "image": "/local/palau.png"
+  },
+  {
+    "country-code": "PAN",
+    "description": "Panama is a narrow Central American country connecting North and South America and separating the Caribbean Sea from the Pacific Ocean. It is best known for the Panama Canal, one of the world's most important artificial waterways and a major international shipping route. Panama City is the capital and largest city, combining modern skyscrapers with a historic colonial district. The country also contains tropical forests, mountains, islands, and diverse ecosystems supporting tourism and commerce.",
+    "area": "75.420",
+    "languages": "Spanish",
+    "image": "/local/panama.png"
+  },
+  {
+    "country-code": "PNG",
+    "description": "Papua New Guinea occupies the eastern half of the island of New Guinea and numerous surrounding islands in the southwestern Pacific. It is one of the world's most culturally and biologically diverse countries, with hundreds of languages and extensive tropical forests, mountains, rivers, and coral reefs. Port Moresby is the capital and largest city. Papua New Guinea is known for distinctive Indigenous cultures, traditional communities, exceptional biodiversity, and rich natural resources.",
+    "area": "462.840",
+    "languages": [
+      "English",
+      "Tok Pisin",
+      "Hiri Motu"
+    ],
+    "image": "/local/papua-new-guinea.png"
+  },
+  {
+    "country-code": "PRY",
+    "description": "Paraguay is a landlocked country in central South America, divided broadly between the eastern region of fertile forests and farmland and the western Gran Chaco. The Paraguay and Parana rivers are important geographical features and support transportation, agriculture, and communities. Asuncion is the capital and largest city. Paraguay has a distinctive bilingual cultural identity shaped by Indigenous Guarani traditions and Spanish colonial history, with agriculture, livestock, energy, and manufacturing forming important parts of its economy.",
+    "area": "406.752",
+    "languages": [
+      "Spanish",
+      "Guarani"
+    ],
+    "image": "/local/paraguay.png"
+  },
+  {
+    "country-code": "PER",
+    "description": "Peru is a diverse South American country stretching from the Pacific coast across the Andes Mountains and into the Amazon rainforest. Its landscapes include coastal deserts, high-altitude valleys, snow-capped peaks, and dense tropical forests. Lima is the capital and largest city, while Cusco and Machu Picchu represent the extraordinary heritage of the Inca civilization. Peru is also known for its rich Indigenous traditions, cuisine, archaeology, biodiversity, and cultural diversity.",
+    "area": "1.285.216",
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "image": "/local/peru.png"
+  },
+  {
+    "country-code": "PHL",
+    "description": "The Philippines is an archipelago in Southeast Asia consisting of more than 7,000 islands between the Pacific Ocean and South China Sea. It is known for tropical beaches, coral reefs, volcanic landscapes, dense cities, and diverse cultural traditions. Manila is the capital and part of one of Southeast Asia's largest metropolitan areas. Filipino society reflects Indigenous, Spanish, American, Chinese, and other influences, while services, manufacturing, technology, agriculture, and overseas employment support the economy.",
+    "area": "300.000",
+    "languages": [
+      "Filipino",
+      "English"
+    ],
+    "image": "/local/philippines.png"
+  },
+  {
+    "country-code": "POL",
+    "description": "Poland is a Central European country with a long history, diverse landscapes, and a rich cultural heritage. Its territory includes Baltic coastlines, forests, lakes, fertile plains, and mountain ranges in the south. Warsaw is the capital and largest city, while Krakow, Gdansk, Wroclaw, and Poznan are important cultural and historic centers. Poland has made major contributions to European science, literature, music, and arts and has developed into a significant modern industrial and technological economy.",
+    "area": "312.696",
+    "languages": "Polish",
+    "image": "/local/poland.png"
+  },
+  {
+    "country-code": "PRT",
+    "description": "Portugal is a southwestern European country located on the Iberian Peninsula, with a long Atlantic coastline and a rich maritime history. It is known for historic cities, traditional architecture, coastal landscapes, vineyards, and distinctive cuisine. Lisbon is the capital and largest city, while Porto is another major cultural and economic center. Portugal's heritage was strongly shaped by centuries of exploration and global maritime connections, leaving cultural influences across Europe, Africa, Asia, and the Americas.",
+    "area": "92.212",
+    "languages": "Portuguese",
+    "image": "/local/portugal.png"
+  },
+  {
+    "country-code": "QAT",
+    "description": "Qatar is a small peninsula in the Arabian Gulf known for its modern cities, desert landscapes, and extensive coastline. Doha, the capital and largest city, has developed into a major regional center for business, culture, education, and international events. Qatar has significant natural gas and petroleum resources, which have supported rapid economic development and extensive infrastructure projects. The country also combines modern architecture with traditional markets, Islamic heritage, and long-standing maritime traditions.",
+    "area": "11.586",
+    "languages": "Arabic",
+    "image": "/local/qatar.png"
+  },
+  {
+    "country-code": "ROU",
+    "description": "Romania is a southeastern European country known for the Carpathian Mountains, fertile plains, forests, historic towns, and the Danube River. Bucharest is the capital and largest city and serves as the country's main political, cultural, and economic center. Romania has a rich heritage influenced by Roman, Byzantine, Ottoman, Hungarian, and Slavic traditions. Its landscapes include medieval castles, rural villages, Black Sea coastline, and the remarkable biodiversity of the Danube Delta.",
+    "area": "238.397",
+    "languages": "Romanian",
+    "image": "/local/romania.png"
+  },
+  {
+    "country-code": "RUS",
+    "description": "Russia is the world's largest country by land area, extending across Eastern Europe and northern Asia from the Baltic and Black Seas to the Pacific Ocean. Its enormous territory contains forests, tundra, mountains, steppes, rivers, and vast Arctic regions. Moscow is the capital and largest city, while Saint Petersburg is renowned for its cultural and architectural heritage. Russia has played a major role in European and Asian history and has a significant tradition in literature, science, music, and the arts.",
+    "area": "17.098.246",
+    "languages": "Russian",
+    "image": "/local/russia.png"
+  },
+  {
+    "country-code": "RWA",
+    "description": "Rwanda is a small landlocked country in East Africa known for its mountainous terrain, green landscapes, and remarkable biodiversity. Kigali is the capital and largest city and is widely recognized for its clean streets, organized urban environment, and growing technology and business sectors. Rwanda is home to mountain gorillas and other wildlife protected in areas such as Volcanoes National Park. Agriculture remains important, while tourism, services, and technology have become increasingly significant to the economy.",
+    "area": "26.338",
+    "languages": [
+      "Kinyarwanda",
+      "English",
+      "French",
+      "Swahili"
+    ],
+    "image": "/local/rwanda.png"
+  },
+  {
+    "country-code": "KNA",
+    "description": "Saint Kitts and Nevis is a small Caribbean island nation consisting of two volcanic islands known for beaches, mountains, tropical forests, and historic plantations. Basseterre, located on Saint Kitts, is the capital and main commercial center. The islands have a strong connection to their colonial history, with historic buildings and former sugar plantations spread across the landscape. Tourism is a major part of the economy, supported by the country's tropical climate, natural scenery, and coastal attractions.",
+    "area": "261",
+    "languages": "English",
+    "image": "/local/saint-kitts-and-nevis.png"
+  },
+  {
+    "country-code": "LCA",
+    "description": "Saint Lucia is a volcanic Caribbean island famous for its lush mountains, tropical forests, beaches, and the distinctive Pitons rising dramatically from the southwestern coast. Castries is the capital and largest city and serves as an important commercial and cultural center. The island has a diverse heritage shaped by African, European, Caribbean, and Indigenous influences. Tourism is central to the economy, while agriculture, particularly banana production, has historically played an important role.",
+    "area": "616",
+    "languages": [
+      "English",
+      "Saint Lucian Creole French"
+    ],
+    "image": "/local/saint-lucia.png"
+  },
+  {
+    "country-code": "VCT",
+    "description": "Saint Vincent and the Grenadines is a Caribbean island nation composed of Saint Vincent and a chain of smaller islands and islets. It is known for volcanic landscapes, tropical forests, coral reefs, beaches, and sailing destinations. Kingstown, on Saint Vincent, is the capital and main commercial center. The country has a rich Caribbean cultural identity influenced by African, European, Indigenous, and regional traditions, while tourism, agriculture, and maritime activities are important parts of its economy.",
+    "area": "389",
+    "languages": [
+      "English",
+      "Vincentian Creole"
+    ],
+    "image": "/local/saint-vincent-and-the-grenadines.png"
+  },
+  {
+    "country-code": "WSM",
+    "description": "Samoa is a Polynesian island country in the central South Pacific known for volcanic mountains, tropical forests, waterfalls, coral reefs, and traditional villages. Apia, located on the island of Upolu, is the capital and largest urban center. Samoan culture is strongly connected to the concept of Fa'a Samoa, emphasizing family, community, respect, and traditional social structures. Agriculture, fishing, tourism, and remittances are important components of the country's economy.",
+    "area": "2.842",
+    "languages": [
+      "Samoan",
+      "English"
+    ],
+    "image": "/local/samoa.png"
+  },
+  {
+    "country-code": "SMR",
+    "description": "San Marino is a small landlocked republic surrounded by Italy in southern Europe. It is one of the world's oldest surviving sovereign states and is known for its historic hilltop capital, medieval fortifications, and views across the surrounding Italian countryside. San Marino City is the capital and cultural center. The country has a strong historical identity built around its long tradition of independence, while tourism, manufacturing, finance, and services contribute to its modern economy.",
+    "area": "61",
+    "languages": "Italian",
+    "image": "/local/san-marino.png"
+  },
+  {
+    "country-code": "STP",
+    "description": "Sao Tome and Principe is a small island nation in the Gulf of Guinea, located off the western coast of Central Africa. The country consists mainly of two volcanic islands surrounded by tropical waters and rich marine ecosystems. Sao Tome is the capital and largest city. The islands are known for lush rainforests, dramatic volcanic landscapes, beaches, and biodiversity. Portuguese cultural influence remains strong, while cocoa production, fishing, agriculture, and tourism are important economic activities.",
+    "area": "964",
+    "languages": "Portuguese",
+    "image": "/local/sao-tome-and-principe.png"
+  },
+  {
+    "country-code": "SAU",
+    "description": "Saudi Arabia occupies most of the Arabian Peninsula and is known for vast deserts, dramatic landscapes, ancient trade routes, and important Islamic holy sites. Riyadh is the capital and largest city, while Mecca and Medina hold exceptional religious significance for Muslims around the world. The country possesses some of the world's largest petroleum reserves and has developed a major economy around energy, infrastructure, finance, and services. Recent development has also emphasized tourism, technology, and economic diversification.",
+    "area": "2.149.690",
+    "languages": "Arabic",
+    "image": "/local/saudi-arabia.png"
+  },
+  {
+    "country-code": "SEN",
+    "description": "Senegal is a West African country on the Atlantic coast known for its diverse landscapes, vibrant cultural traditions, and important historical heritage. Dakar is the capital and largest city and serves as a major economic, cultural, and transportation center for the region. Senegal has a long history connected to trans-Saharan trade, Islamic scholarship, and Atlantic commerce. Its economy includes agriculture, fishing, mining, services, tourism, and growing industries, while music and literature are important parts of national culture.",
+    "area": "196.722",
+    "languages": [
+      "French",
+      "Wolof"
+    ],
+    "image": "/local/senegal.png"
+  },
+  {
+    "country-code": "SRB",
+    "description": "Serbia is a landlocked country in southeastern Europe located in the central Balkans. Its landscapes include fertile plains, rolling hills, forests, rivers, and mountain regions. Belgrade, situated at the confluence of the Danube and Sava rivers, is the capital and largest city and an important regional cultural and economic center. Serbia has a rich historical heritage influenced by Roman, Byzantine, Ottoman, Austro-Hungarian, and Slavic traditions, reflected in its architecture, monasteries, cuisine, and arts.",
+    "area": "77.474",
+    "languages": "Serbian",
+    "image": "/local/serbia.png"
+  },
+  {
+    "country-code": "SYC",
+    "description": "Seychelles is an island country in the western Indian Ocean consisting of numerous islands known for granite formations, tropical forests, coral reefs, and exceptionally clear waters. Victoria, located on Mahe Island, is the capital and main urban center. The country is internationally recognized for its beaches, marine biodiversity, and protected natural environments. Tourism is a major economic sector, complemented by fishing and services. Its population reflects a diverse mixture of African, European, Asian, and island cultures.",
+    "area": "459",
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "image": "/local/seychelles.png"
+  },
+  {
+    "country-code": "SLE",
+    "description": "Sierra Leone is a West African country on the Atlantic coast known for tropical forests, mountains, beaches, and a rich cultural heritage. Freetown is the capital and largest city, situated on a scenic peninsula surrounded by hills and the Atlantic Ocean. The country has a diverse population with numerous ethnic traditions and languages. Sierra Leone's economy includes agriculture, mining, fishing, tourism, and services, while its natural landscapes and coastal environments offer significant ecological and tourism potential.",
+    "area": "71.740",
+    "languages": [
+      "English",
+      "Krio"
+    ],
+    "image": "/local/sierra-leone.png"
+  },
+  {
+    "country-code": "SGP",
+    "description": "Singapore is a highly developed city-state in Southeast Asia located at the southern tip of the Malay Peninsula. It is known for its modern skyline, efficient infrastructure, multicultural population, tropical climate, and major international port. Singapore City forms the country's central urban area and economic heart. The country has developed into a global center for finance, technology, logistics, trade, education, and business. Its cultural identity reflects strong Chinese, Malay, Indian, and international influences.",
+    "area": "728",
+    "languages": [
+      "English",
+      "Malay",
+      "Mandarin",
+      "Tamil"
+    ],
+    "image": "/local/singapore.png"
+  },
+  {
+    "country-code": "SVK",
+    "description": "Slovakia is a landlocked country in Central Europe known for its mountains, forests, medieval towns, castles, and traditional villages. Bratislava is the capital and largest city, located along the Danube River near the borders with Austria and Hungary. The Carpathian Mountains cover much of the northern and central regions, offering opportunities for hiking and winter sports. Slovakia has a rich Central European cultural heritage and a modern economy strongly connected to manufacturing, technology, trade, and automotive production.",
+    "area": "49.035",
+    "languages": "Slovak",
+    "image": "/local/slovakia.png"
+  },
+  {
+    "country-code": "SVN",
+    "description": "Slovenia is a small Central European country known for Alpine mountains, forests, lakes, caves, vineyards, and a short but scenic Adriatic coastline. Ljubljana is the capital and largest city, recognized for its historic center and green urban spaces. Lake Bled and the Julian Alps are among the country's best-known natural attractions. Slovenia combines Central European, Mediterranean, Alpine, and Slavic influences and has a highly developed economy based on manufacturing, services, tourism, and technology.",
+    "area": "20.273",
+    "languages": "Slovenian",
+    "image": "/local/slovenia.png"
+  },
+  {
+    "country-code": "SLB",
+    "description": "The Solomon Islands is a Pacific island country consisting of numerous mountainous islands, coral atolls, tropical forests, and coastal communities. Honiara, located on Guadalcanal Island, is the capital and largest urban center. The country is known for its rich marine biodiversity, traditional Melanesian cultures, World War II history, and extensive natural landscapes. Fishing, agriculture, forestry, tourism, and natural resources are important parts of the economy, while many communities maintain strong connections to the sea.",
+    "area": "28.896",
+    "languages": [
+      "English",
+      "Pijin"
+    ],
+    "image": "/local/solomon-islands.png"
+  },
+  {
+    "country-code": "SOM",
+    "description": "Somalia is a country in the Horn of Africa with one of the longest coastlines on the African continent. Its landscapes include arid plains, deserts, highlands, and coastal environments along the Indian Ocean and Gulf of Aden. Mogadishu is the capital and largest city and has a long history as a center of Indian Ocean trade. Somali culture has strong traditions in poetry, pastoralism, maritime commerce, and community life, while livestock, agriculture, fishing, and trade remain important economic activities.",
+    "area": "637.657",
+    "languages": [
+      "Somali",
+      "Arabic"
+    ],
+    "image": "/local/somalia.png"
+  },
+  {
+    "country-code": "ZAF",
+    "description": "South Africa is a diverse country at the southern tip of the African continent, featuring mountains, savannas, deserts, forests, coastlines, and major urban centers. It has three capital cities: Pretoria, Cape Town, and Bloemfontein, reflecting different governmental functions. South Africa has one of the continent's most developed and diversified economies, including mining, manufacturing, finance, agriculture, tourism, and technology. Its population represents a wide range of cultures, languages, traditions, and historical influences.",
+    "area": "1.221.037",
+    "languages": [
+      "Zulu",
+      "Xhosa",
+      "Afrikaans",
+      "English",
+      "Sepedi",
+      "Setswana",
+      "Sesotho",
+      "Tsonga",
+      "Swati",
+      "Venda",
+      "Ndebele"
+    ],
+    "image": "/local/south-africa.png"
+  },
+  {
+    "country-code": "KOR",
+    "description": "South Korea occupies the southern portion of the Korean Peninsula and is known for advanced technology, vibrant cities, mountainous landscapes, and a rich cultural heritage. Seoul is the capital and largest metropolitan area and serves as the country's political, economic, and cultural center. South Korea has developed into a major global economy with strengths in electronics, automobiles, shipbuilding, entertainment, and technology. Traditional Korean culture continues to coexist with globally influential modern music, cinema, cuisine, and design.",
+    "area": "100.210",
+    "languages": "Korean",
+    "image": "/local/south-korea.png"
+  },
+  {
+    "country-code": "SSD",
+    "description": "South Sudan is a landlocked country in East-Central Africa characterized by vast savannas, wetlands, forests, and the extensive Nile River system. Juba is the capital and largest city and serves as the country's principal political and commercial center. South Sudan has a highly diverse population with numerous ethnic communities and languages. Agriculture, livestock, oil resources, and natural ecosystems are important to the country's economy and identity, while the Nile wetlands support significant wildlife and traditional livelihoods.",
+    "area": "619.745",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "image": "/local/south-sudan.png"
+  },
+  {
+    "country-code": "ESP",
+    "description": "Spain is a southwestern European country occupying most of the Iberian Peninsula, with diverse landscapes ranging from Mediterranean coastlines and beaches to mountains, plateaus, forests, and islands. Madrid is the capital and largest city, while Barcelona, Seville, Valencia, and Bilbao are major cultural and economic centers. Spain has a rich heritage shaped by Roman, Islamic, Jewish, Christian, and European traditions. Its culture is internationally recognized for architecture, art, literature, music, cuisine, and festivals.",
+    "area": "505.990",
+    "languages": [
+      "Spanish",
+      "Catalan",
+      "Galician",
+      "Basque"
+    ],
+    "image": "/local/spain.png"
+  },
+  {
+    "country-code": "LKA",
+    "description": "Sri Lanka is an island country in the Indian Ocean located south of the Indian subcontinent. It is known for tropical forests, tea plantations, mountains, ancient cities, beaches, and rich biodiversity. Sri Jayawardenepura Kotte is the official capital, while Colombo is the largest city and main commercial center. Sri Lanka has a long history shaped by Buddhism, Hinduism, South Asian civilizations, and European colonial influences. Tourism, agriculture, manufacturing, services, and tea production are important to its economy.",
+    "area": "65.610",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "image": "/local/sri-lanka.png"
+  },
+  {
+    "country-code": "SDN",
+    "description": "Sudan is a large country in northeastern Africa where the Sahara and Sahel regions meet the fertile Nile Valley. The Nile River and its tributaries have supported settlements and agriculture for thousands of years. Khartoum is the capital and historic political center, located near the meeting of the Blue and White Nile. Sudan has a rich heritage influenced by ancient Nubian kingdoms, Islamic civilizations, Arab and African cultures, and long-established trade routes across northeastern Africa.",
+    "area": "1.886.068",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "image": "/local/sudan.png"
+  },
+  {
+    "country-code": "SUR",
+    "description": "Suriname is a small country on the northeastern coast of South America, known for extensive tropical rainforests, rivers, and cultural diversity. Paramaribo is the capital and largest city and contains historic architecture reflecting Dutch colonial influence. Much of the country remains covered by Amazonian rainforest, supporting exceptional biodiversity and Indigenous and Maroon communities. Suriname's population reflects African, Asian, Indigenous, European, and other influences, while mining, agriculture, forestry, and services contribute to the economy.",
+    "area": "163.820",
+    "languages": [
+      "Dutch",
+      "Sranan Tongo"
+    ],
+    "image": "/local/suriname.png"
+  },
+  {
+    "country-code": "SWE",
+    "description": "Sweden is a Nordic country in Northern Europe known for extensive forests, thousands of lakes, mountainous northern regions, and a long Baltic Sea coastline. Stockholm is the capital and largest city and is spread across numerous islands and waterways. Sweden has a highly developed economy with strong industries in engineering, technology, telecommunications, manufacturing, and services. Swedish culture is internationally recognized for design, music, literature, innovation, and a strong tradition of environmental awareness and social development.",
+    "area": "450.295",
+    "languages": "Swedish",
+    "image": "/local/sweden.png"
+  },
+  {
+    "country-code": "CHE",
+    "description": "Switzerland is a landlocked country in Central Europe famous for the Alps, lakes, valleys, and highly developed cities. Bern is the federal city, while Zurich, Geneva, and Basel are major economic and cultural centers. Switzerland is known for political stability, financial services, precision manufacturing, pharmaceuticals, tourism, and its strong tradition of innovation. Its population is culturally and linguistically diverse, with German, French, Italian, and Romansh contributing to the country's distinctive multilingual identity.",
+    "area": "41.285",
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "image": "/local/switzerland.png"
+  },
+  {
+    "country-code": "SYR",
+    "description": "Syria is a country in the eastern Mediterranean region with landscapes that include coastal mountains, fertile plains, deserts, and the Euphrates River valley. Damascus is the capital and one of the world's oldest continuously inhabited cities, while Aleppo has historically been an important center of commerce and culture. Syria possesses an exceptionally rich archaeological heritage shaped by ancient civilizations, Roman and Byzantine history, Islamic dynasties, and Ottoman traditions, with historic sites distributed across the country.",
+    "area": "185.180",
+    "languages": "Arabic",
+    "image": "/local/syria.png"
+  },
+  {
+    "country-code": "TWN",
+    "description": "Taiwan is an island in East Asia known for dramatic mountains, dense forests, fertile plains, modern cities, and a vibrant cultural landscape. Taipei is the largest metropolitan area and an important political, economic, and technological center. Taiwan has developed a globally significant economy with major strengths in electronics, semiconductor manufacturing, technology, trade, and advanced industry. Its culture combines Chinese historical influences with Indigenous traditions and distinctive modern developments in cuisine, arts, design, and popular culture.",
+    "area": "36.197",
+    "languages": [
+      "Mandarin",
+      "Taiwanese Hokkien",
+      "Hakka"
+    ],
+    "image": "/local/taiwan.png"
+  },
+  {
+    "country-code": "TJK",
+    "description": "Tajikistan is a mountainous landlocked country in Central Asia, dominated by the Pamir and Alay mountain systems. Dushanbe is the capital and largest city and serves as the country's main political, cultural, and economic center. The country is known for dramatic alpine landscapes, glaciers, high-altitude lakes, and ancient trade routes connected to the Silk Road. Tajik culture has strong Persian influences, while agriculture, mining, hydropower, and remittances are important components of the economy.",
+    "area": "143.100",
+    "languages": [
+      "Tajik",
+      "Russian"
+    ],
+    "image": "/local/tajikistan.png"
+  },
+  {
+    "country-code": "TZA",
+    "description": "Tanzania is an East African country known for Mount Kilimanjaro, the Serengeti, Zanzibar, tropical coastlines, and extraordinary wildlife. Dodoma is the official capital, while Dar es Salaam is the largest city and a major commercial center. Tanzania contains some of Africa's most famous national parks and conservation areas, supporting elephants, lions, giraffes, wildebeest, and many other species. Agriculture, tourism, mining, manufacturing, and services are important parts of its diverse economy.",
+    "area": "945.087",
+    "languages": [
+      "Swahili",
+      "English"
+    ],
+    "image": "/local/tanzania.png"
+  },
+  {
+    "country-code": "THA",
+    "description": "Thailand is a Southeast Asian country known for tropical beaches, mountainous northern regions, fertile plains, temples, vibrant cities, and a distinctive cultural heritage. Bangkok is the capital and largest city and serves as the country's main political, economic, and cultural center. Thailand has a long Buddhist tradition alongside influences from neighboring Southeast Asian cultures. Tourism, manufacturing, agriculture, trade, and services form major parts of the economy, while Thai cuisine and arts have gained worldwide popularity.",
+    "area": "513.120",
+    "languages": "Thai",
+    "image": "/local/thailand.png"
+  },
+  {
+    "country-code": "TLS",
+    "description": "Timor-Leste is a small country occupying the eastern part of the island of Timor, along with several nearby islands in Southeast Asia. Dili is the capital and largest city, located on the northern coast. The country is known for rugged mountains, tropical landscapes, coral reefs, and a distinctive cultural heritage shaped by Indigenous traditions, Portuguese influence, and Southeast Asian connections. Agriculture, petroleum resources, fishing, tourism, and international development activities contribute to the economy.",
+    "area": "14.874",
+    "languages": [
+      "Tetum",
+      "Portuguese"
+    ],
+    "image": "/local/timor-leste.png"
+  },
+  {
+    "country-code": "TGO",
+    "description": "Togo is a narrow West African country stretching from the Gulf of Guinea northward through tropical forests and savanna landscapes. Lome, located on the coast, is the capital and largest city and an important commercial and transportation center. Togo has diverse ethnic communities, languages, and cultural traditions, including distinctive music, dance, crafts, and religious practices. Agriculture remains important, while phosphate mining, trade, manufacturing, and services also contribute to the national economy.",
+    "area": "56.785",
+    "languages": [
+      "French",
+      "Ewe",
+      "Kabye"
+    ],
+    "image": "/local/togo.png"
+  },
+  {
+    "country-code": "TON",
+    "description": "Tonga is a Polynesian island kingdom in the South Pacific consisting of numerous islands, reefs, and coral atolls. Nuku'alofa, located on Tongatapu Island, is the capital and largest urban center. Tonga has a strong maritime culture and traditions centered on family, community, religion, music, dance, and ceremonial life. Its tropical environment supports fishing, agriculture, and tourism, while remittances from Tongans living abroad are also important to the economy.",
+    "area": "747",
+    "languages": [
+      "Tongan",
+      "English"
+    ],
+    "image": "/local/tonga.png"
+  },
+  {
+    "country-code": "TTO",
+    "description": "Trinidad and Tobago is a Caribbean island nation located near the northern coast of South America. Trinidad is the larger and more industrialized island, while Tobago is known for beaches, forests, and coral reefs. Port of Spain is the capital and a major cultural and commercial center. The country has a highly diverse population with African, Indian, European, Indigenous, Chinese, and Middle Eastern influences. Energy production, manufacturing, tourism, services, and culture are important to the economy.",
+    "area": "5.128",
+    "languages": "English",
+    "image": "/local/trinidad-and-tobago.png"
+  },
+  {
+    "country-code": "TUN",
+    "description": "Tunisia is a North African country on the Mediterranean coast, known for ancient ruins, sandy beaches, desert landscapes, and historic cities. Tunis is the capital and largest city, while Carthage remains one of the country's most important archaeological sites. Tunisia has a rich heritage shaped by Phoenician, Roman, Arab, Ottoman, and European influences. Its economy includes tourism, agriculture, manufacturing, energy, and services, while Mediterranean cuisine and cultural traditions remain central to national identity.",
+    "area": "163.610",
+    "languages": "Arabic",
+    "image": "/local/tunisia.png"
+  },
+  {
+    "country-code": "TUR",
+    "description": "Turkey is a transcontinental country connecting southeastern Europe and western Asia, with coastlines along the Mediterranean, Aegean, and Black Seas. Ankara is the capital, while Istanbul is the largest city and a historic center spanning two continents. Turkey has an extraordinary heritage shaped by ancient civilizations, the Byzantine Empire, the Ottoman Empire, and modern Turkish culture. Its economy includes manufacturing, tourism, agriculture, trade, construction, technology, and services.",
+    "area": "783.562",
+    "languages": "Turkish",
+    "image": "/local/turkey.png"
+  },
+  {
+    "country-code": "TKM",
+    "description": "Turkmenistan is a Central Asian country dominated by the vast Karakum Desert and bordered by the Caspian Sea. Ashgabat is the capital and largest city and is known for its distinctive white-marble architecture. The country has a long history connected to Silk Road trade routes and ancient civilizations of Central Asia. Natural gas is a major component of the economy, while agriculture, particularly cotton production, and livestock remain important activities across the country's varied regions.",
+    "area": "488.100",
+    "languages": "Turkmen",
+    "image": "/local/turkmenistan.png"
+  },
+  {
+    "country-code": "TUV",
+    "description": "Tuvalu is one of the world's smallest and most geographically isolated countries, consisting of several coral atolls and reef islands in the Pacific Ocean. Funafuti is the capital and main population center. The country's extremely low-lying geography makes its communities closely connected to the ocean and vulnerable to environmental changes. Traditional life includes fishing, navigation, community gatherings, and island-based agriculture, while remittances, international assistance, and maritime activities contribute significantly to the economy.",
+    "area": "26",
+    "languages": [
+      "Tuvaluan",
+      "English"
+    ],
+    "image": "/local/tuvalu.png"
+  },
+  {
+    "country-code": "UGA",
+    "description": "Uganda is a landlocked East African country known for green highlands, tropical forests, lakes, rivers, and diverse wildlife. Kampala is the capital and largest city and serves as the country's main economic and cultural center. Uganda contains part of Lake Victoria and is home to mountain gorillas, chimpanzees, elephants, lions, and many other species. Agriculture remains central to the economy, while tourism, services, manufacturing, and natural resources are also important contributors.",
+    "area": "241.550",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "image": "/local/uganda.png"
+  },
+  {
+    "country-code": "UKR",
+    "description": "Ukraine is a large country in Eastern Europe known for fertile plains, rivers, forests, steppe landscapes, and a coastline along the Black Sea. Kyiv is the capital and largest city and an important historical, cultural, and economic center. Ukraine has a rich heritage influenced by Kyivan Rus, Slavic traditions, European cultures, and centuries of regional interaction. Agriculture, industry, technology, energy, and services are important parts of its economy, while Ukrainian literature, music, art, and cuisine form strong cultural traditions.",
+    "area": "603.628",
+    "languages": "Ukrainian",
+    "image": "/local/ukraine.png"
+  },
+  {
+    "country-code": "ARE",
+    "description": "The United Arab Emirates is a federation of seven emirates on the southeastern Arabian Peninsula, known for modern cities, desert landscapes, luxury tourism, and major international business centers. Abu Dhabi is the capital, while Dubai is the largest city and a global hub for trade, finance, aviation, and tourism. The country has developed rapidly through petroleum resources and extensive diversification into technology, logistics, real estate, finance, renewable energy, and services, combining modern development with traditional Emirati culture.",
+    "area": "83.600",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "image": "/local/united-arab-emirates.png"
+  },
+  {
+    "country-code": "GBR",
+    "description": "The United Kingdom is an island country in northwestern Europe consisting of England, Scotland, Wales, and Northern Ireland. London is the capital and largest city and is one of the world's leading financial, cultural, and political centers. The country has diverse landscapes ranging from Scottish Highlands and Welsh mountains to English countryside and coastal regions. The United Kingdom has had a major influence on global history, literature, science, industry, music, politics, and culture.",
+    "area": "243.610",
+    "languages": [
+      "English",
+      "Welsh",
+      "Scottish Gaelic",
+      "Irish"
+    ],
+    "image": "/local/united-kingdom.png"
+  },
+  {
+    "country-code": "USA",
+    "description": "The United States is a large North American country extending from the Atlantic to the Pacific Ocean and from Canada to Mexico. Its territory includes mountains, plains, deserts, forests, tropical regions, and extensive coastlines. Washington, D.C. is the capital, while New York City, Los Angeles, Chicago, and other major cities are important economic and cultural centers. The United States has a highly diversified economy and has played a major role in global science, technology, entertainment, finance, and politics.",
+    "area": "9.833.517",
+    "languages": "English",
+    "image": "/local/united-states.png"
+  },
+  {
+    "country-code": "URY",
+    "description": "Uruguay is a small South American country located between Argentina and Brazil along the Atlantic Ocean. Montevideo is the capital and largest city and serves as the country's main political, cultural, and economic center. Uruguay is known for rolling grasslands, beaches, ranching traditions, and a strong agricultural sector. Its culture combines Spanish and Italian influences with distinctive local traditions such as mate, football, music, and the social heritage of the Rio de la Plata region.",
+    "area": "176.215",
+    "languages": "Spanish",
+    "image": "/local/uruguay.png"
+  },
+  {
+    "country-code": "UZB",
+    "description": "Uzbekistan is a landlocked country in Central Asia known for ancient Silk Road cities, desert landscapes, fertile valleys, and historic Islamic architecture. Tashkent is the capital and largest city, while Samarkand, Bukhara, and Khiva are famous for their monumental buildings and long histories as centers of trade and scholarship. Uzbekistan has a rich cultural heritage influenced by Persian, Turkic, Islamic, and Soviet traditions. Agriculture, mining, manufacturing, energy, and services are important parts of its economy.",
+    "area": "448.978",
+    "languages": "Uzbek",
+    "image": "/local/uzbekistan.png"
+  },
+  {
+    "country-code": "VUT",
+    "description": "Vanuatu is a Pacific island nation consisting of a chain of volcanic islands and smaller islets in the South Pacific. Port Vila, on Efate Island, is the capital and largest urban center. The country is known for tropical forests, coral reefs, volcanoes, beaches, and diverse Melanesian cultures. Traditional communities maintain strong connections to land, sea, ceremonies, and local customs. Agriculture, tourism, fishing, and services are important parts of the economy, while the islands offer significant ecological diversity.",
+    "area": "12.189",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "image": "/local/vanuatu.png"
+  },
+  {
+    "country-code": "VAT",
+    "description": "Vatican City is the world's smallest independent state and the spiritual and administrative center of the Roman Catholic Church. It is entirely surrounded by the city of Rome in Italy and contains important religious and cultural landmarks, including St. Peter's Basilica, the Sistine Chapel, and the Vatican Museums. The city-state has an extraordinary artistic heritage featuring works by renowned European artists. Its role is primarily religious, cultural, diplomatic, and administrative rather than economic or industrial.",
+    "area": "0,49",
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "image": "/local/vatican-city.png"
+  },
+  {
+    "country-code": "VEN",
+    "description": "Venezuela is a northern South American country with landscapes ranging from Caribbean coastlines and tropical forests to vast plains and the Andes Mountains. Caracas is the capital and largest city and an important political and cultural center. Venezuela is home to Angel Falls, the world's highest uninterrupted waterfall, and contains significant biodiversity. The country possesses extensive petroleum resources and has historically relied heavily on the energy sector, while agriculture, mining, manufacturing, and services also contribute to its economy.",
+    "area": "916.445",
+    "languages": "Spanish",
+    "image": "/local/venezuela.png"
+  },
+  {
+    "country-code": "VNM",
+    "description": "Vietnam is a Southeast Asian country stretching along the South China Sea, with mountains, fertile river deltas, tropical forests, and a long coastline. Hanoi is the capital, while Ho Chi Minh City is the largest urban and commercial center. Vietnam has a rich cultural heritage influenced by Indigenous traditions, Chinese civilization, Southeast Asian societies, and French colonial history. Its economy includes manufacturing, technology, agriculture, trade, tourism, and services, with Vietnamese cuisine and culture recognized worldwide.",
+    "area": "331.212",
+    "languages": "Vietnamese",
+    "image": "/local/vietnam.png"
+  },
+  {
+    "country-code": "YEM",
+    "description": "Yemen is a country at the southern end of the Arabian Peninsula, known for dramatic mountains, desert regions, historic cities, and a strategic coastline along the Red Sea and Gulf of Aden. Sanaa is the capital and one of the country's most historically distinctive cities, famous for its traditional architecture. Yemen has a deep heritage shaped by ancient Arabian kingdoms, Islamic civilization, and maritime trade. Coffee, agriculture, fishing, and traditional crafts have historically played important roles in local communities.",
+    "area": "527.968",
+    "languages": "Arabic",
+    "image": "/local/yemen.png"
+  },
+  {
+    "country-code": "ZMB",
+    "description": "Zambia is a landlocked country in southern Africa known for vast plateaus, rivers, waterfalls, wildlife, and extensive national parks. Lusaka is the capital and largest city and serves as the country's main political and economic center. Zambia shares the spectacular Victoria Falls with Zimbabwe, one of Africa's most famous natural landmarks. Copper mining is a major part of the economy, while agriculture, tourism, energy, and services are also important. The country has diverse ethnic communities and cultural traditions.",
+    "area": "752.618",
+    "languages": [
+      "English",
+      "Bemba",
+      "Nyanja"
+    ],
+    "image": "/local/zambia.png"
+  },
+  {
+    "country-code": "ZWE",
+    "description": "Zimbabwe is a landlocked country in southern Africa known for dramatic landscapes, ancient archaeological sites, wildlife, and the spectacular Victoria Falls. Harare is the capital and largest city, serving as the country's main political and commercial center. Zimbabwe is home to diverse ecosystems ranging from savannas and forests to rocky highlands. Agriculture, mining, tourism, manufacturing, and services are important parts of the economy, while the country's cultural heritage includes strong Shona and Ndebele traditions.",
+    "area": "390.757",
+    "languages": [
+      "English",
+      "Shona",
+      "Ndebele"
+    ],
+    "image": "/local/zimbabwe.png"
+  }
+]

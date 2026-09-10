@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "Afghanistan",
+    "acronym": "AF",
+    "code": "AFG",
+    "continent": "asia"
+  },
+  {
+    "name": "Albania",
+    "acronym": "AL",
+    "code": "ALB",
+    "continent": "europe"
+  },
+  {
+    "name": "Algeria",
+    "acronym": "DZ",
+    "code": "DZA",
+    "continent": "africa"
+  },
+  {
+    "name": "Andorra",
+    "acronym": "AD",
+    "code": "AND",
+    "continent": "europe"
+  },
+  {
+    "name": "Angola",
+    "acronym": "AO",
+    "code": "AGO",
+    "continent": "africa"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "acronym": "AG",
+    "code": "ATG",
+    "continent": "north-america"
+  },
+  {
+    "name": "Argentina",
+    "acronym": "AR",
+    "code": "ARG",
+    "continent": "south-america"
+  },
+  {
+    "name": "Armenia",
+    "acronym": "AM",
+    "code": "ARM",
+    "continent": "asia"
+  },
+  {
+    "name": "Australia",
+    "acronym": "AU",
+    "code": "AUS",
+    "continent": "oceania"
+  },
+  {
+    "name": "Austria",
+    "acronym": "AT",
+    "code": "AUT",
+    "continent": "europe"
+  },
+  {
+    "name": "Azerbaijan",
+    "acronym": "AZ",
+    "code": "AZE",
+    "continent": "asia"
+  },
+  {
+    "name": "Bahamas",
+    "acronym": "BS",
+    "code": "BHS",
+    "continent": "north-america"
+  },
+  {
+    "name": "Bahrain",
+    "acronym": "BH",
+    "code": "BHR",
+    "continent": "asia"
+  },
+  {
+    "name": "Bangladesh",
+    "acronym": "BD",
+    "code": "BGD",
+    "continent": "asia"
+  },
+  {
+    "name": "Barbados",
+    "acronym": "BB",
+    "code": "BRB",
+    "continent": "north-america"
+  },
+  {
+    "name": "Belarus",
+    "acronym": "BY",
+    "code": "BLR",
+    "continent": "europe"
+  },
+  {
+    "name": "Belgium",
+    "acronym": "BE",
+    "code": "BEL",
+    "continent": "europe"
+  },
+  {
+    "name": "Belize",
+    "acronym": "BZ",
+    "code": "BLZ",
+    "continent": "north-america"
+  },
+  {
+    "name": "Benin",
+    "acronym": "BJ",
+    "code": "BEN",
+    "continent": "africa"
+  },
+  {
+    "name": "Bhutan",
+    "acronym": "BT",
+    "code": "BTN",
+    "continent": "asia"
+  },
+  {
+    "name": "Bolivia",
+    "acronym": "BO",
+    "code": "BOL",
+    "continent": "south-america"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "acronym": "BA",
+    "code": "BIH",
+    "continent": "europe"
+  },
+  {
+    "name": "Botswana",
+    "acronym": "BW",
+    "code": "BWA",
+    "continent": "africa"
+  },
+  {
+    "name": "Brazil",
+    "acronym": "BR",
+    "code": "BRA",
+    "continent": "south-america"
+  },
+  {
+    "name": "Brunei",
+    "acronym": "BN",
+    "code": "BRN",
+    "continent": "asia"
+  },
+  {
+    "name": "Bulgaria",
+    "acronym": "BG",
+    "code": "BGR",
+    "continent": "europe"
+  },
+  {
+    "name": "Burkina Faso",
+    "acronym": "BF",
+    "code": "BFA",
+    "continent": "africa"
+  },
+  {
+    "name": "Burundi",
+    "acronym": "BI",
+    "code": "BDI",
+    "continent": "africa"
+  },
+  {
+    "name": "Cabo Verde",
+    "acronym": "CV",
+    "code": "CPV",
+    "continent": "africa"
+  },
+  {
+    "name": "Cambodia",
+    "acronym": "KH",
+    "code": "KHM",
+    "continent": "asia"
+  },
+  {
+    "name": "Cameroon",
+    "acronym": "CM",
+    "code": "CMR",
+    "continent": "africa"
+  },
+  {
+    "name": "Canada",
+    "acronym": "CA",
+    "code": "CAN",
+    "continent": "north-america"
+  },
+  {
+    "name": "Central African Republic",
+    "acronym": "CF",
+    "code": "CAF",
+    "continent": "africa"
+  },
+  {
+    "name": "Chad",
+    "acronym": "TD",
+    "code": "TCD",
+    "continent": "africa"
+  },
+  {
+    "name": "Chile",
+    "acronym": "CL",
+    "code": "CHL",
+    "continent": "south-america"
+  },
+  {
+    "name": "China",
+    "acronym": "CN",
+    "code": "CHN",
+    "continent": "asia"
+  },
+  {
+    "name": "Colombia",
+    "acronym": "CO",
+    "code": "COL",
+    "continent": "south-america"
+  },
+  {
+    "name": "Comoros",
+    "acronym": "KM",
+    "code": "COM",
+    "continent": "africa"
+  },
+  {
+    "name": "Congo",
+    "acronym": "CG",
+    "code": "COG",
+    "continent": "africa"
+  },
+  {
+    "name": "Costa Rica",
+    "acronym": "CR",
+    "code": "CRI",
+    "continent": "north-america"
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "acronym": "CI",
+    "code": "CIV",
+    "continent": "africa"
+  },
+  {
+    "name": "Croatia",
+    "acronym": "HR",
+    "code": "HRV",
+    "continent": "europe"
+  },
+  {
+    "name": "Cuba",
+    "acronym": "CU",
+    "code": "CUB",
+    "continent": "north-america"
+  },
+  {
+    "name": "Cyprus",
+    "acronym": "CY",
+    "code": "CYP",
+    "continent": "asia"
+  },
+  {
+    "name": "Czechia",
+    "acronym": "CZ",
+    "code": "CZE",
+    "continent": "europe"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "acronym": "CD",
+    "code": "COD",
+    "continent": "africa"
+  },
+  {
+    "name": "Denmark",
+    "acronym": "DK",
+    "code": "DNK",
+    "continent": "europe"
+  },
+  {
+    "name": "Djibouti",
+    "acronym": "DJ",
+    "code": "DJI",
+    "continent": "africa"
+  },
+  {
+    "name": "Dominica",
+    "acronym": "DM",
+    "code": "DMA",
+    "continent": "north-america"
+  },
+  {
+    "name": "Dominican Republic",
+    "acronym": "DO",
+    "code": "DOM",
+    "continent": "north-america"
+  },
+  {
+    "name": "Ecuador",
+    "acronym": "EC",
+    "code": "ECU",
+    "continent": "south-america"
+  },
+  {
+    "name": "Egypt",
+    "acronym": "EG",
+    "code": "EGY",
+    "continent": "africa"
+  },
+  {
+    "name": "El Salvador",
+    "acronym": "SV",
+    "code": "SLV",
+    "continent": "north-america"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "acronym": "GQ",
+    "code": "GNQ",
+    "continent": "africa"
+  },
+  {
+    "name": "Eritrea",
+    "acronym": "ER",
+    "code": "ERI",
+    "continent": "africa"
+  },
+  {
+    "name": "Estonia",
+    "acronym": "EE",
+    "code": "EST",
+    "continent": "europe"
+  },
+  {
+    "name": "Eswatini",
+    "acronym": "SZ",
+    "code": "SWZ",
+    "continent": "africa"
+  },
+  {
+    "name": "Ethiopia",
+    "acronym": "ET",
+    "code": "ETH",
+    "continent": "africa"
+  },
+  {
+    "name": "Fiji",
+    "acronym": "FJ",
+    "code": "FJI",
+    "continent": "oceania"
+  },
+  {
+    "name": "Finland",
+    "acronym": "FI",
+    "code": "FIN",
+    "continent": "europe"
+  },
+  {
+    "name": "France",
+    "acronym": "FR",
+    "code": "FRA",
+    "continent": "europe"
+  },
+  {
+    "name": "Gabon",
+    "acronym": "GA",
+    "code": "GAB",
+    "continent": "africa"
+  },
+  {
+    "name": "Gambia",
+    "acronym": "GM",
+    "code": "GMB",
+    "continent": "africa"
+  },
+  {
+    "name": "Georgia",
+    "acronym": "GE",
+    "code": "GEO",
+    "continent": "asia"
+  },
+  {
+    "name": "Germany",
+    "acronym": "DE",
+    "code": "DEU",
+    "continent": "europe"
+  },
+  {
+    "name": "Ghana",
+    "acronym": "GH",
+    "code": "GHA",
+    "continent": "africa"
+  },
+  {
+    "name": "Greece",
+    "acronym": "GR",
+    "code": "GRC",
+    "continent": "europe"
+  },
+  {
+    "name": "Grenada",
+    "acronym": "GD",
+    "code": "GRD",
+    "continent": "north-america"
+  },
+  {
+    "name": "Guatemala",
+    "acronym": "GT",
+    "code": "GTM",
+    "continent": "north-america"
+  },
+  {
+    "name": "Guinea",
+    "acronym": "GN",
+    "code": "GIN",
+    "continent": "africa"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "acronym": "GW",
+    "code": "GNB",
+    "continent": "africa"
+  },
+  {
+    "name": "Guyana",
+    "acronym": "GY",
+    "code": "GUY",
+    "continent": "south-america"
+  },
+  {
+    "name": "Haiti",
+    "acronym": "HT",
+    "code": "HTI",
+    "continent": "north-america"
+  },
+  {
+    "name": "Honduras",
+    "acronym": "HN",
+    "code": "HND",
+    "continent": "north-america"
+  },
+  {
+    "name": "Hungary",
+    "acronym": "HU",
+    "code": "HUN",
+    "continent": "europe"
+  },
+  {
+    "name": "Iceland",
+    "acronym": "IS",
+    "code": "ISL",
+    "continent": "europe"
+  },
+  {
+    "name": "India",
+    "acronym": "IN",
+    "code": "IND",
+    "continent": "asia"
+  },
+  {
+    "name": "Indonesia",
+    "acronym": "ID",
+    "code": "IDN",
+    "continent": "asia"
+  },
+  {
+    "name": "Iran",
+    "acronym": "IR",
+    "code": "IRN",
+    "continent": "asia"
+  },
+  {
+    "name": "Iraq",
+    "acronym": "IQ",
+    "code": "IRQ",
+    "continent": "asia"
+  },
+  {
+    "name": "Ireland",
+    "acronym": "IE",
+    "code": "IRL",
+    "continent": "europe"
+  },
+  {
+    "name": "Israel",
+    "acronym": "IL",
+    "code": "ISR",
+    "continent": "asia"
+  },
+  {
+    "name": "Italy",
+    "acronym": "IT",
+    "code": "ITA",
+    "continent": "europe"
+  },
+  {
+    "name": "Jamaica",
+    "acronym": "JM",
+    "code": "JAM",
+    "continent": "north-america"
+  },
+  {
+    "name": "Japan",
+    "acronym": "JP",
+    "code": "JPN",
+    "continent": "asia"
+  },
+  {
+    "name": "Jordan",
+    "acronym": "JO",
+    "code": "JOR",
+    "continent": "asia"
+  },
+  {
+    "name": "Kazakhstan",
+    "acronym": "KZ",
+    "code": "KAZ",
+    "continent": "asia"
+  },
+  {
+    "name": "Kenya",
+    "acronym": "KE",
+    "code": "KEN",
+    "continent": "africa"
+  },
+  {
+    "name": "Kiribati",
+    "acronym": "KI",
+    "code": "KIR",
+    "continent": "oceania"
+  },
+  {
+    "name": "Kuwait",
+    "acronym": "KW",
+    "code": "KWT",
+    "continent": "asia"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "acronym": "KG",
+    "code": "KGZ",
+    "continent": "asia"
+  },
+  {
+    "name": "Laos",
+    "acronym": "LA",
+    "code": "LAO",
+    "continent": "asia"
+  },
+  {
+    "name": "Latvia",
+    "acronym": "LV",
+    "code": "LVA",
+    "continent": "europe"
+  },
+  {
+    "name": "Lebanon",
+    "acronym": "LB",
+    "code": "LBN",
+    "continent": "asia"
+  },
+  {
+    "name": "Lesotho",
+    "acronym": "LS",
+    "code": "LSO",
+    "continent": "africa"
+  },
+  {
+    "name": "Liberia",
+    "acronym": "LR",
+    "code": "LBR",
+    "continent": "africa"
+  },
+  {
+    "name": "Libya",
+    "acronym": "LY",
+    "code": "LBY",
+    "continent": "africa"
+  },
+  {
+    "name": "Liechtenstein",
+    "acronym": "LI",
+    "code": "LIE",
+    "continent": "europe"
+  },
+  {
+    "name": "Lithuania",
+    "acronym": "LT",
+    "code": "LTU",
+    "continent": "europe"
+  },
+  {
+    "name": "Luxembourg",
+    "acronym": "LU",
+    "code": "LUX",
+    "continent": "europe"
+  },
+  {
+    "name": "Madagascar",
+    "acronym": "MG",
+    "code": "MDG",
+    "continent": "africa"
+  },
+  {
+    "name": "Malawi",
+    "acronym": "MW",
+    "code": "MWI",
+    "continent": "africa"
+  },
+  {
+    "name": "Malaysia",
+    "acronym": "MY",
+    "code": "MYS",
+    "continent": "asia"
+  },
+  {
+    "name": "Maldives",
+    "acronym": "MV",
+    "code": "MDV",
+    "continent": "asia"
+  },
+  {
+    "name": "Mali",
+    "acronym": "ML",
+    "code": "MLI",
+    "continent": "africa"
+  },
+  {
+    "name": "Malta",
+    "acronym": "MT",
+    "code": "MLT",
+    "continent": "europe"
+  },
+  {
+    "name": "Marshall Islands",
+    "acronym": "MH",
+    "code": "MHL",
+    "continent": "oceania"
+  },
+  {
+    "name": "Mauritania",
+    "acronym": "MR",
+    "code": "MRT",
+    "continent": "africa"
+  },
+  {
+    "name": "Mauritius",
+    "acronym": "MU",
+    "code": "MUS",
+    "continent": "africa"
+  },
+  {
+    "name": "Mexico",
+    "acronym": "MX",
+    "code": "MEX",
+    "continent": "north-america"
+  },
+  {
+    "name": "Micronesia",
+    "acronym": "FM",
+    "code": "FSM",
+    "continent": "oceania"
+  },
+  {
+    "name": "Moldova",
+    "acronym": "MD",
+    "code": "MDA",
+    "continent": "europe"
+  },
+  {
+    "name": "Monaco",
+    "acronym": "MC",
+    "code": "MCO",
+    "continent": "europe"
+  },
+  {
+    "name": "Mongolia",
+    "acronym": "MN",
+    "code": "MNG",
+    "continent": "asia"
+  },
+  {
+    "name": "Montenegro",
+    "acronym": "ME",
+    "code": "MNE",
+    "continent": "europe"
+  },
+  {
+    "name": "Morocco",
+    "acronym": "MA",
+    "code": "MAR",
+    "continent": "africa"
+  },
+  {
+    "name": "Mozambique",
+    "acronym": "MZ",
+    "code": "MOZ",
+    "continent": "africa"
+  },
+  {
+    "name": "Myanmar",
+    "acronym": "MM",
+    "code": "MMR",
+    "continent": "asia"
+  },
+  {
+    "name": "Namibia",
+    "acronym": "NA",
+    "code": "NAM",
+    "continent": "africa"
+  },
+  {
+    "name": "Nauru",
+    "acronym": "NR",
+    "code": "NRU",
+    "continent": "oceania"
+  },
+  {
+    "name": "Nepal",
+    "acronym": "NP",
+    "code": "NPL",
+    "continent": "asia"
+  },
+  {
+    "name": "Netherlands",
+    "acronym": "NL",
+    "code": "NLD",
+    "continent": "europe"
+  },
+  {
+    "name": "New Zealand",
+    "acronym": "NZ",
+    "code": "NZL",
+    "continent": "oceania"
+  },
+  {
+    "name": "Nicaragua",
+    "acronym": "NI",
+    "code": "NIC",
+    "continent": "north-america"
+  },
+  {
+    "name": "Niger",
+    "acronym": "NE",
+    "code": "NER",
+    "continent": "africa"
+  },
+  {
+    "name": "Nigeria",
+    "acronym": "NG",
+    "code": "NGA",
+    "continent": "africa"
+  },
+  {
+    "name": "North Korea",
+    "acronym": "KP",
+    "code": "PRK",
+    "continent": "asia"
+  },
+  {
+    "name": "North Macedonia",
+    "acronym": "MK",
+    "code": "MKD",
+    "continent": "europe"
+  },
+  {
+    "name": "Norway",
+    "acronym": "NO",
+    "code": "NOR",
+    "continent": "europe"
+  },
+  {
+    "name": "Oman",
+    "acronym": "OM",
+    "code": "OMN",
+    "continent": "asia"
+  },
+  {
+    "name": "Pakistan",
+    "acronym": "PK",
+    "code": "PAK",
+    "continent": "asia"
+  },
+  {
+    "name": "Palau",
+    "acronym": "PW",
+    "code": "PLW",
+    "continent": "oceania"
+  },
+  {
+    "name": "Palestine",
+    "acronym": "PS",
+    "code": "PSE",
+    "continent": "asia"
+  },
+  {
+    "name": "Panama",
+    "acronym": "PA",
+    "code": "PAN",
+    "continent": "north-america"
+  },
+  {
+    "name": "Papua New Guinea",
+    "acronym": "PG",
+    "code": "PNG",
+    "continent": "oceania"
+  },
+  {
+    "name": "Paraguay",
+    "acronym": "PY",
+    "code": "PRY",
+    "continent": "south-america"
+  },
+  {
+    "name": "Peru",
+    "acronym": "PE",
+    "code": "PER",
+    "continent": "south-america"
+  },
+  {
+    "name": "Philippines",
+    "acronym": "PH",
+    "code": "PHL",
+    "continent": "asia"
+  },
+  {
+    "name": "Poland",
+    "acronym": "PL",
+    "code": "POL",
+    "continent": "europe"
+  },
+  {
+    "name": "Portugal",
+    "acronym": "PT",
+    "code": "PRT",
+    "continent": "europe"
+  },
+  {
+    "name": "Qatar",
+    "acronym": "QA",
+    "code": "QAT",
+    "continent": "asia"
+  },
+  {
+    "name": "Romania",
+    "acronym": "RO",
+    "code": "ROU",
+    "continent": "europe"
+  },
+  {
+    "name": "Russia",
+    "acronym": "RU",
+    "code": "RUS",
+    "continent": "europe"
+  },
+  {
+    "name": "Rwanda",
+    "acronym": "RW",
+    "code": "RWA",
+    "continent": "africa"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "acronym": "KN",
+    "code": "KNA",
+    "continent": "north-america"
+  },
+  {
+    "name": "Saint Lucia",
+    "acronym": "LC",
+    "code": "LCA",
+    "continent": "north-america"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "acronym": "VC",
+    "code": "VCT",
+    "continent": "north-america"
+  },
+  {
+    "name": "Samoa",
+    "acronym": "WS",
+    "code": "WSM",
+    "continent": "oceania"
+  },
+  {
+    "name": "San Marino",
+    "acronym": "SM",
+    "code": "SMR",
+    "continent": "europe"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "acronym": "ST",
+    "code": "STP",
+    "continent": "africa"
+  },
+  {
+    "name": "Saudi Arabia",
+    "acronym": "SA",
+    "code": "SAU",
+    "continent": "asia"
+  },
+  {
+    "name": "Senegal",
+    "acronym": "SN",
+    "code": "SEN",
+    "continent": "africa"
+  },
+  {
+    "name": "Serbia",
+    "acronym": "RS",
+    "code": "SRB",
+    "continent": "europe"
+  },
+  {
+    "name": "Seychelles",
+    "acronym": "SC",
+    "code": "SYC",
+    "continent": "africa"
+  },
+  {
+    "name": "Sierra Leone",
+    "acronym": "SL",
+    "code": "SLE",
+    "continent": "africa"
+  },
+  {
+    "name": "Singapore",
+    "acronym": "SG",
+    "code": "SGP",
+    "continent": "asia"
+  },
+  {
+    "name": "Slovakia",
+    "acronym": "SK",
+    "code": "SVK",
+    "continent": "europe"
+  },
+  {
+    "name": "Slovenia",
+    "acronym": "SI",
+    "code": "SVN",
+    "continent": "europe"
+  },
+  {
+    "name": "Solomon Islands",
+    "acronym": "SB",
+    "code": "SLB",
+    "continent": "oceania"
+  },
+  {
+    "name": "Somalia",
+    "acronym": "SO",
+    "code": "SOM",
+    "continent": "africa"
+  },
+  {
+    "name": "South Africa",
+    "acronym": "ZA",
+    "code": "ZAF",
+    "continent": "africa"
+  },
+  {
+    "name": "South Korea",
+    "acronym": "KR",
+    "code": "KOR",
+    "continent": "asia"
+  },
+  {
+    "name": "South Sudan",
+    "acronym": "SS",
+    "code": "SSD",
+    "continent": "africa"
+  },
+  {
+    "name": "Spain",
+    "acronym": "ES",
+    "code": "ESP",
+    "continent": "europe"
+  },
+  {
+    "name": "Sri Lanka",
+    "acronym": "LK",
+    "code": "LKA",
+    "continent": "asia"
+  },
+  {
+    "name": "Sudan",
+    "acronym": "SD",
+    "code": "SDN",
+    "continent": "africa"
+  },
+  {
+    "name": "Suriname",
+    "acronym": "SR",
+    "code": "SUR",
+    "continent": "south-america"
+  },
+  {
+    "name": "Sweden",
+    "acronym": "SE",
+    "code": "SWE",
+    "continent": "europe"
+  },
+  {
+    "name": "Switzerland",
+    "acronym": "CH",
+    "code": "CHE",
+    "continent": "europe"
+  },
+  {
+    "name": "Syria",
+    "acronym": "SY",
+    "code": "SYR",
+    "continent": "asia"
+  },
+  {
+    "name": "Taiwan",
+    "acronym": "TW",
+    "code": "TWN",
+    "continent": "asia"
+  },
+  {
+    "name": "Tajikistan",
+    "acronym": "TJ",
+    "code": "TJK",
+    "continent": "asia"
+  },
+  {
+    "name": "Tanzania",
+    "acronym": "TZ",
+    "code": "TZA",
+    "continent": "africa"
+  },
+  {
+    "name": "Thailand",
+    "acronym": "TH",
+    "code": "THA",
+    "continent": "asia"
+  },
+  {
+    "name": "Timor-Leste",
+    "acronym": "TL",
+    "code": "TLS",
+    "continent": "asia"
+  },
+  {
+    "name": "Togo",
+    "acronym": "TG",
+    "code": "TGO",
+    "continent": "africa"
+  },
+  {
+    "name": "Tonga",
+    "acronym": "TO",
+    "code": "TON",
+    "continent": "oceania"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "acronym": "TT",
+    "code": "TTO",
+    "continent": "north-america"
+  },
+  {
+    "name": "Tunisia",
+    "acronym": "TN",
+    "code": "TUN",
+    "continent": "africa"
+  },
+  {
+    "name": "Turkey",
+    "acronym": "TR",
+    "code": "TUR",
+    "continent": "asia"
+  },
+  {
+    "name": "Turkmenistan",
+    "acronym": "TM",
+    "code": "TKM",
+    "continent": "asia"
+  },
+  {
+    "name": "Tuvalu",
+    "acronym": "TV",
+    "code": "TUV",
+    "continent": "oceania"
+  },
+  {
+    "name": "Uganda",
+    "acronym": "UG",
+    "code": "UGA",
+    "continent": "africa"
+  },
+  {
+    "name": "Ukraine",
+    "acronym": "UA",
+    "code": "UKR",
+    "continent": "europe"
+  },
+  {
+    "name": "United Arab Emirates",
+    "acronym": "AE",
+    "code": "ARE",
+    "continent": "asia"
+  },
+  {
+    "name": "United Kingdom",
+    "acronym": "GB",
+    "code": "GBR",
+    "continent": "europe"
+  },
+  {
+    "name": "United States",
+    "acronym": "US",
+    "code": "USA",
+    "continent": "north-america"
+  },
+  {
+    "name": "Uruguay",
+    "acronym": "UY",
+    "code": "URY",
+    "continent": "south-america"
+  },
+  {
+    "name": "Uzbekistan",
+    "acronym": "UZ",
+    "code": "UZB",
+    "continent": "asia"
+  },
+  {
+    "name": "Vanuatu",
+    "acronym": "VU",
+    "code": "VUT",
+    "continent": "oceania"
+  },
+  {
+    "name": "Vatican City",
+    "acronym": "VA",
+    "code": "VAT",
+    "continent": "europe"
+  },
+  {
+    "name": "Venezuela",
+    "acronym": "VE",
+    "code": "VEN",
+    "continent": "south-america"
+  },
+  {
+    "name": "Vietnam",
+    "acronym": "VN",
+    "code": "VNM",
+    "continent": "asia"
+  },
+  {
+    "name": "Yemen",
+    "acronym": "YE",
+    "code": "YEM",
+    "continent": "asia"
+  },
+  {
+    "name": "Zambia",
+    "acronym": "ZM",
+    "code": "ZMB",
+    "continent": "africa"
+  },
+  {
+    "name": "Zimbabwe",
+    "acronym": "ZW",
+    "code": "ZWE",
+    "continent": "africa"
+  }
+]
